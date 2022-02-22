@@ -1,0 +1,36 @@
+baseURL = 'https://buurland.netlify.app'
+languageCode = 'nl-nl'
+
+title = 'Buurland Utrecht'
+theme = ['hugo-shortcode-gallery', 'hyde']
+
+defaultContentLanguage = 'nl'
+enableInlineShortcodes = true
+
+summarylength = 10
+enableEmoji = true
+
+
+[params]
+  description = "gemoedelijk wonen in hartje Utrecht"
+  dateFormat = "mon 2 Jan 2006"
+
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[menu]
+[[menu.main]]
+  identifier = 'blog'
+  name = 'Berichten'
+  url = '/categories/blog/'
+  weight = 7
+[[menu.main]]
+  identifier = 'media'
+  name = 'In de media'
+  url = '/categories/media/'
+  weight = 6
+
+[blackfriday]
+  hrefTargetBlank = false

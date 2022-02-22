@@ -1,0 +1,29 @@
+---
+title: Het Land
+date: '2014-11-30'
+categories:
+  - media
+tags:
+  - dakhaas
+  - het-land
+lastmod: '2022-02-21T15:14:14.297Z'
+---
+{{< gallery match="images/BuurlandDEF2.jpg" loadJQuery=true thumbnailResizeOptions="600x600 q90 Lanczos" >}}
+
+[bron](http://rosaproducties.nl/blogpost/het-land-voor-de-dakhaas-4/)
+
+ Ergens, midden in Utrecht, diep verscholen en onontdekt, ligt een land. Een heus land te midden van al het beton en algemene kaders. Officieel bestaat het niet, maar dat nemen de landbewoners niet zo serieus. Zij vinden zichzelf een land, hét Land, en dan zijn ze het ook.
+
+Een jaar of zeven geleden begon het allemaal. Een groep onbekenden ontmoetten elkaar op het onontgonnen Land. Ze zagen mogelijkheden. Kunst. Bouwsels. Niet lullen maar poetsen was door hen persoonlijk uitgevonden en het Land begon al snel vorm te krijgen. Het waren mensen die niet lachen om plannen die misschien onuitvoerbaar lijken. Om plannen die misschien wat megalomaan aan doen in eerste instantie. Schouders eronder en gaan. Want je leven maak je zelf, en dat weten ze maar al te goed.
+
+Zo kwam het dat twee landbewoners op een doodgemoedereerde middag met een graafmachine een zwembad in de tuinen groeven. Een jongensdroom die werkelijkheid werd. En als deze jongens een zwembad graven, doen ze het goed. Er kwam een zeil in en een prachtige ombouw omheen, en ze verzorgden het zoals je een zwembad hoort te verzorgen; met liefde en precisie. Zo’n bak water vraagt natuurlijk om een zwembadfeestje, en zo geschiedde. Het was fantastisch, en dus wordt er nog steeds eens in de zoveel tijd zo’n gezellig feestje gegeven. Met een hoop gekkigheid, muziek en plezier, maar uiterst geheim.
+
+Het zwembad gaf stof tot nadenken, want wie een zwembad kan bouwen is tot meer in staat. Er kwam een jacuzzi in de kelder (1), een bubbelbad (2) in de ene en een pizza-oven (3) in de andere tuin. Verderop bouwde een landbewoner een kas (4), om eigen groenten te kunnen groeien voor een betere wereld. Megagezond en superonbespoten, met een bak met vissen erin voor de bemesting. In het schuimpjehuis (5) vertellen ze je er graag alles over, maar niet op klaarlichte dag. Samen met de katten (6) bewaken de kippen het erf, met Harry als opperkip die alles nauwlettend in de gaten houdt. Want een land zonder grensbewaking is immers geen land.
+
+Zoals het Land nu is was het niet altijd. Ooit woonden er andere mensen. Andere landbewoners, die nog wel deel uitmaakten van De Stad. Er woonde bijvoorbeeld een duivenman (7). Hij had sierduiven in een duiventil, en die beesten deden salto’s als je ze in de lucht gooide. Of dat kwam doordat de duiven gewoon een steekje los hadden of de duivenman ze magisch had afgericht is tot op heden een raadsel. De laatste der Mohikanen reed elke zoveel weken naar Roemenië om daar mensen zonder kleren van een prettig pakje te voorzien. Hij genoot regelmatig vanaf zijn balustrade (8) van alle kapriolen die de landbewoners uithaalden. Stiekem wordt hij best gemist.
+
+Gelukkig maakt het vertrek van karikaturen ook plaats voor nieuwe prominenten. Zo doen de Dametjes van de Overkant regelmatig een rondje door Het Land. Om hun restjes aan de kippen te geven en even te kletsen met de landbewoners. Of de buurman boven op het bankje (9), die altijd schrijft en tekent en staart in de verte. Alsof hij werkt aan een nu al legendarisch epistel over iets waar hij het onderwerp nog voor moet bedenken. En De Tuin aan de Overkant, een plek waar altijd reuring is en legio potten en pannen (10) het uitzicht domineren. Die landbewoner daar doet namelijk vegetarisch cateren, en behalve dat is zijn tuin ook altijd open voor ochtendzonliefhebbers. De pizzaoven is de deur naar de Stad, want Belangrijke Stadbewoners komen maar wat graag op hun fietsje langs om een pizzaatje te eten van ’s Lands eigen pizzabakker. En om ervoor te zorgen dat alles goed verloopt en de goden het Land goed gezind zijn, houdt de Grote Zeemeerman de wacht.
+
+De landbewoners zijn trots op hun Land, dus je bent meer dan welkom. Maar wel een beetje discreet graag, anders hadden ze al lang een spandoek om de Dom geknoopt. Gelukkig kun je het helemaal niet vinden, en omdat ze heus begrijpen dat de nieuwsgierigheid nu wel een beetje gewekt is, hebben ze speciaal voor jullie iemand het Land in gelaten om een niet waarheidsgetrouwe schatkaart te maken. Kun je toch een beetje meedoen.
+
+Liefs uit het Land!
