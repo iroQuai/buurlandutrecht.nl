@@ -1,4 +1,4 @@
-baseURL = 'https://buurland.netlify.app'
+baseURL = 'https://buurland.netlify.app/'
 languageCode = 'nl-nl'
 
 title = 'Buurland Utrecht'
