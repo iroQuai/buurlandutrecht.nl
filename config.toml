@@ -7,14 +7,11 @@ theme = ['hugo-shortcode-gallery', 'hyde']
 defaultContentLanguage = 'nl'
 enableInlineShortcodes = true
 
-summarylength = 10
-enableEmoji = true
-
+#summarylength = 10
 
 [params]
   description = "gemoedelijk wonen in hartje Utrecht"
   dateFormat = "mon 2 Jan 2006"
-
 
 [taxonomies]
   category = 'categories'
@@ -31,6 +28,3 @@ enableEmoji = true
   name = 'In de media'
   url = '/categories/media/'
   weight = 6
-
-[blackfriday]
-  hrefTargetBlank = false
