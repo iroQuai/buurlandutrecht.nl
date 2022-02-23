@@ -2,13 +2,11 @@
 layout: page
 title: De toekomst van Buurland
 date: 2020-10-16T00:00:00.000Z
-menu:
-  main:
-    weight: 4
 lastmod: '2022-02-19T21:13:27.094Z'
 aliases:
   - /toekomst/
 ---
+<a name="content">
 Buurland is al jaren een begrip in Utrecht. Van rommelmarkten tot festivals en van buurtworkshops tot klusdagen: Buurland is een plek waar bewoners én omwonenden uit de Staatsliedenbuurt elkaar (buiten coronatijd) op een veelvoud aan buurtactiviteiten kunnen treffen. Helaas loopt per oktober 2021 het verhuurcontract tussen de SSH en Mitros af. Hiermee zouden alle huidige bewoners moeten vertrekken en Buurland ophouden te bestaan. Wij willen ons graag inzetten om de bijzondere samenhorigheid die bestaat in Buurland te behouden tot het onvermijdelijke moment van sloop aanbreekt. Dit is gelijk een belangrijk punt om voorop te stellen. Wij vragen niet om uitstel of afstel van de sloop, het enige wat wij graag willen is voorrang op een antikraakcontract zodat de mensen die Buurland gemaakt hebben tot wat het is dit bijzondere stukje van de Staatsliedenbuurt nog wat langer in stand kunnen houden. 
 
 Mitros is de eigenaar van de woningen in Buurland en de opdrachtgever van het nieuwbouwproject Nieuw Buurland. Mitros zal, om leegstand te voorkomen, na oktober 2021 de panden laten beheren door een vastgoedbeheerder tot het daadwerkelijke moment van de sloop. Deze vastgoedbeheerder zal onder de huidige plannen vervolgens antikraakcontracten opstellen voor nieuwe, tijdelijke bewoners. De huidige bewoners zullen in deze situatie geen voorrang krijgen op een dergelijk contract. Wij vragen namens omwonenden en alle bewoners van Buurland aan Mitros om dit punt te heroverwegen om de volgende redenen: 

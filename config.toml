@@ -2,7 +2,7 @@ baseURL = 'https://buurland.netlify.app/'
 languageCode = 'nl-nl'
 
 title = 'Buurland Utrecht'
-theme = ['hyde', 'hugo-shortcode-gallery']
+theme = ['soho', 'hugo-shortcode-gallery']
 
 defaultContentLanguage = 'nl'
 enableInlineShortcodes = true
@@ -19,15 +19,36 @@ enableInlineShortcodes = true
 
 [menu]
 [[menu.main]]
-  identifier = 'blog'
-  name = 'Berichten'
-  url = '/categories/blog/'
-  weight = 7
+  identifier = 'buurtinbeeld'
+  name = 'Buurt in Beeld'
+  url = '/buurtinbeeld/'
+  weight = 2
+[[menu.main]]
+  identifier = 'zwemfest'
+  name = 'Zwemfest'
+  url = '/zwemfest/'
+  weight = 3
+  [[menu.main]]
+  identifier = 'toekomst'
+  name = 'De toekomst van Buurland'
+  url = '/toekomst/#content'
+  weight = 4
 [[menu.main]]
   identifier = 'media'
   name = 'In de media'
   url = '/categories/media/'
+  weight = 5
+[[menu.main]]
+  identifier = 'blog'
+  name = 'Berichten'
+  url = '/categories/blog/'
   weight = 6
+[[menu.main]]
+  identifier = 'contact'
+  name = 'Contact'
+  url = '/contact/'
+  weight = 7  
+
 
 [params.social]
   twitter = "htr3n"

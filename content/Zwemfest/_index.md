@@ -2,9 +2,6 @@
 title: Zwemfest
 draft: false
 layout: page
-menu:
-  main:
-    weight: 3
 lastmod: '2022-02-19T22:30:45.681Z'
 aliases:
   - /zwemfest/
