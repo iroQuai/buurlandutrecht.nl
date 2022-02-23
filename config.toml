@@ -2,7 +2,7 @@ baseURL = 'https://buurland.netlify.app/'
 languageCode = 'nl-nl'
 
 title = 'Buurland Utrecht'
-theme = ['soho', 'hugo-shortcode-gallery']
+theme = ['hyde', 'hugo-shortcode-gallery']
 
 defaultContentLanguage = 'nl'
 enableInlineShortcodes = true
