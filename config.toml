@@ -4,14 +4,15 @@ languageCode = 'nl-nl'
 title = 'Buurland Utrecht'
 theme = ['hyde', 'hugo-shortcode-gallery']
 
-defaultContentLanguage = 'nl'
+defaultContentLanguage = 'nl-nl'
+
 enableInlineShortcodes = true
 
 #summarylength = 10
 
 [params]
   description = "gemoedelijk wonen in hartje Utrecht"
-  dateFormat = "mon 2 Jan 2006"
+  dateFormat = "Monday 2 Januari 2006"
 
 [taxonomies]
   category = 'categories'
