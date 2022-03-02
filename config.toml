@@ -5,14 +5,13 @@ title = 'Buurland Utrecht'
 theme = ['hyde', 'hugo-shortcode-gallery']
 
 defaultContentLanguage = 'nl-nl'
-
 enableInlineShortcodes = true
 
 #summarylength = 10
 
 [params]
   description = "gemoedelijk wonen in hartje Utrecht"
-  dateFormat = "Monday 2 Januari 2006"
+  dateFormat = "mon 2 Jan 2006"
 
 [taxonomies]
   category = 'categories'
@@ -49,9 +48,3 @@ enableInlineShortcodes = true
   name = 'Contact'
   url = '/contact/'
   weight = 7  
-
-
-[params.social]
-  twitter = "htr3n"
-  keybase = "htr3n"
-  github = "htr3n"

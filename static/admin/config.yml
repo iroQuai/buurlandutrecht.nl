@@ -6,9 +6,9 @@ public_folder: /images
 collections:
   - name: 'berichten'
     label: 'berichten'
-    folder: 'content/Berichten/{{slug}}/index.md'
+    folder: 'content/berichten'
     create: true
-    # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}{{month}}{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
@@ -17,22 +17,16 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: Berichten2
-    label: Berichten2
-    label_singular: 'Page'
-    folder: content/Berichten
+  - name: 'media'
+    label: 'in de media'
+    folder: 'content/media'
     create: true
-    # adding a nested object will show the collection folder structure
-    nested:
-      depth: 100 # max depth to show in the collection tree
-      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    slug: '{{year}}{{month}}{{day}}-{{slug}}'
+    editor:
+      preview: false
     fields:
-      - label: Title
-        name: title
-        widget: string
-      - label: Body
-        name: body
-        widget: markdown
-    # adding a meta object with a path property allows editing the path of entries
-    # moving an existing entry will move the entire sub tree of the entry to the new location
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Categories', name: 'categories', widget: 'select', options: ["blog", "media"] }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
