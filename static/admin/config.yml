@@ -6,7 +6,19 @@ public_folder: /images
 collections:
   - name: 'berichten'
     label: 'berichten'
-    folder: 'content/berichten'
+    folder: 'content/Berichten'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'media'
+    label: 'In de media'
+    folder: 'content/Media'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
