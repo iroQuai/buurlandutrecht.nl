@@ -22,7 +22,6 @@ collections:
     label: 'in de media'
     folder: 'content/media'
     preview_path: "berichten/{{year}}{{month}}{{day}}-{{slug}}"
-# 
     create: true
     slug: '{{year}}{{month}}{{day}}-{{slug}}'
     editor:
@@ -30,6 +29,5 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Categories', name: 'categories', widget: 'select', options: ["blog", "media"] }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
