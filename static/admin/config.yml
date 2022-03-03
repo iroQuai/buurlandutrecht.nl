@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: iroQuai/buurlandutrecht.nl
-  branch: main
+  branch: 'main'
 media_folder: static/images
 public_folder: /images
 collections:
