@@ -7,26 +7,28 @@ collections:
   - name: 'berichten'
     label: 'berichten'
     folder: 'content/berichten'
+    preview_path: "berichten/{{year}}{{month}}{{day}}-{{slug}}"
     create: true
     slug: '{{year}}{{month}}{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - {label: "Categories", name: "categories", widget: "hidden", default: "blog"}
+      - { label: 'Categories', name: 'categories', widget: 'select', options: ["blog", "media"] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'media'
     label: 'in de media'
     folder: 'content/media'
+    preview_path: "berichten/{{year}}{{month}}{{day}}-{{slug}}"
+# 
     create: true
     slug: '{{year}}{{month}}{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - {label: "categories", name: "categories", widget: "hidden", default: "media"}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Categories', name: 'categories', widget: 'select', options: ["blog", "media"] }
       - { label: 'Description', name: 'description', widget: 'string' }
