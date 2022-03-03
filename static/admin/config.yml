@@ -13,7 +13,7 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Categories', name: 'categories', widget: 'select', options: ["blog", "media"] }
+      - {label: "Categories", name: "categories", widget: "hidden", default: "blog"}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -26,6 +26,7 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "categories", name: "categories", widget: "hidden", default: "media"}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Categories', name: 'categories', widget: 'select', options: ["blog", "media"] }
       - { label: 'Description', name: 'description', widget: 'string' }
