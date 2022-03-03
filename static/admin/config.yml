@@ -7,7 +7,7 @@ public_folder: /images
 collections:
   - name: 'berichten'
     label: 'berichten'
-    folder: 'content/berichten'
+    folder: content/berichten
     preview_path: "berichten/{{year}}{{month}}{{day}}-{{slug}}"
     create: true
     slug: '{{year}}{{month}}{{day}}-{{slug}}'
@@ -21,7 +21,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'media'
     label: 'in de media'
-    folder: 'content/media'
+    folder: content/media
     preview_path: "berichten/{{year}}{{month}}{{day}}-{{slug}}"
     create: true
     slug: '{{year}}{{month}}{{day}}-{{slug}}'
