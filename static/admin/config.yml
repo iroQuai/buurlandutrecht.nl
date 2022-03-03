@@ -1,6 +1,7 @@
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  name: github
+  repo: iroQuai/buurlandutrecht.nl
+  branch: main
 media_folder: static/images
 public_folder: /images
 collections:
