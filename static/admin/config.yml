@@ -1,12 +1,14 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  repo: iroQuai/buurlandutrecht.nl
+  branch: 'main'
 media_folder: static/images
 public_folder: /images
 collections:
   - name: 'berichten'
     label: 'berichten'
-    folder: 'content/berichten'
+    folder: 'content/Berichten'
+   # preview_path: "Berichten/{{year}}{{month}}{{day}}-{{slug}}"
     create: true
     slug: '{{year}}{{month}}{{day}}-{{slug}}'
     editor:
@@ -19,14 +21,14 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'media'
     label: 'in de media'
-    folder: 'content/media'
+    folder: 'content/Media'
+    # preview_path: "berichten/{{year}}{{month}}{{day}}-{{slug}}"
     create: true
-    slug: '{{year}}{{month}}{{day}}-{{slug}}'
+    # slug: '{{year}}{{month}}{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Categories', name: 'categories', widget: 'select', options: ["blog", "media"] }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
