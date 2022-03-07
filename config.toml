@@ -29,9 +29,9 @@ enableInlineShortcodes = true
   url = '/zwemfest/'
   weight = 3
   [[menu.main]]
-  identifier = 'toekomst'
-  name = 'De toekomst van Buurland'
-  url = '/toekomst/#content'
+  identifier = 'verenigingbuurland'
+  name = 'Vereniging Buurland'
+  url = '/vereniging-buurland'
   weight = 4
 [[menu.main]]
   identifier = 'media'
