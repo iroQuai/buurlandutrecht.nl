@@ -7,7 +7,8 @@ aliases:
   - /vereniging-buurland/
 ---
 
-[toc]
+# ==Let op! Eerste ruwe versie, er kan nog veel aangepast worden aan deze pagina==
+
 
 ## 1946: Gebouwd voor permanente bewoning
 De panden in Buurland (officiele benaming: "Lauwerecht 2 & 4") zijn gebouwd vlak na de oorlog, eind jaren 40. Omdat er naast een woningtekort ook een grondstoffentekort was, werd er wat bezuinigd op materiaal; dat is onder andere te merken aan de bakstenen; die zijn hol om grondstof te sparen. 
