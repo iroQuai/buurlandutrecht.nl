@@ -14,7 +14,7 @@ tags:
 lastmod: '2022-02-21T15:39:39.707Z'
 ---
 
-[![](images/1524415_519773191460919_7627972664794018071_o-e1401354271819-1024x294.jpg)](http://www.buurlandutrecht.nl/wp-content/uploads/2014/05/1524415_519773191460919_7627972664794018071_o-e1401354271819.jpg)
+[![](images/1524415_519773191460919_7627972664794018071_o-e1401354271819-1024x294.jpg)](images/1524415_519773191460919_7627972664794018071_o-e1401354271819.jpg)
 
 [Nieuw Utrecht](https://www.facebook.com/NieuwUtrecht) heeft de bezoekers van [Culturele Zondagen](https://www.facebook.com/culturelezondagen) afgelopen weekend laten [#‎omfietsen‬](https://www.facebook.com/hashtag/omfietsen?source=embed) buiten de gebaande paden met rondleidingen langs Westplein, Zijdebalen, de werkspoorkathedraal en natuurlijk Buurland Utrecht!
 
