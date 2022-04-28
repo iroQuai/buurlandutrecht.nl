@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Conceptplannen herindeling
+title: Wat wil Vereniging Buurland? 
 date: 2020-10-16T00:00:00.000Z
 lastmod: '2022-02-19T21:13:27.094Z'
 aliases:
   - /vereniging-buurland/conceptplannen
 ---
-## Wat wil Vereniging Buurland? 
+Zoals bedacht door [Vereniging Buurland](/vereniging-buurland), architect Ineke Hulshof en Adviesbureau Van Nimwegen. 
+
 **Renovatie voor lange termijn (minimaal 30 jaar):**
 - Geluids- en warmte-isolatie
 - Collectieve, duurzame warmte-installatie en energie-opwekking (b.v. stadsverwarming of zonnecollectoren)
@@ -19,9 +20,6 @@ aliases:
 - Optimaal & duurzaam benutten van middelen, kennis en kunde binnen Buurland
 - Het delen, creëren, organiseren en ondersteunen van projecten, activiteiten en werkzaamheden die bijdragen aan gemoedelijkheid van de buurt
 
-
-## Indelingen
-Zoals bedacht door [Vereniging Buurland](/vereniging-buurland), architect Ineke Hulshof en Adviesbureau Van Nimwegen. 
 
 ### Huidige situatie
 - Woningtype “twee-op-één”.
