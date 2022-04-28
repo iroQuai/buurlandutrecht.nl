@@ -37,27 +37,6 @@ Onze droom:
 
 Om deze droom te verwezelijken is er een [organisatiestructuur](/vereniging-buurland/verenigingsstructuur/) opgesteld, zijn de [visie, missie, doelstellingen](/vereniging-buurland/missie-visie-doelstellingen) geformuleerd. Dromen en wensen zijn geconcretiseerd in [conceptplannen](/vereniging-buurland/conceptplannen/), er zijn [kostenramingen](/vereniging-buurland/kostenraming/) opgemaakt voor renovatie door architect (Ineke Hulshof) i.s.m.  Adviesbureau Van Nimwegen, er lopen gesprekken met Mitros, SSH, provincie en gemeente. 
 
-
-### Wat wil Vereniging Buurland? 
-**Renovatie voor lange termijn (minimaal 30 jaar):**
-- Geluids- en warmte-isolatie
-- Collectieve, duurzame warmte-installatie en energie-opwekking (b.v. stadsverwarming of zonnecollectoren)
-- C.V. & electra (opnieuw) aanleggen
-- Herindeling woningen naar eigen wens
-- Herinrichten buitenruimtes op z’n Buurlands (b.v. moestuin, gemeenschappelijk terras)
-- Binnenruimtes creëren voor algemeen gebruik (b.v. werkplaats, huiskamer, atelier of keuken)
-
-**Sociale leefbaarheid behouden en bevorderen:**
-- Optimaal & duurzaam benutten van middelen, kennis en kunde binnen Buurland
-- Het delen, creëren, organiseren en ondersteunen van projecten, activiteiten en werkzaamheden die bijdragen aan gemoedelijkheid van de buurt
-
-
-
-
-
-> [!alert]
-> hier nog véél info toevoegen en doorlinken - zie in presentatie
-
 ## 7 jaar later; nieuwe tijdelijkheid.
 Het is 2020. De zeven stabiele jaren zijn ten einde. ook nu is wederom onzeker wanneer de sloop daadwerkelijk gaat starten. De huidige bewoners starten een nieuw offensief om Buurland te behouden: [buurland: met hoop op de toekomst](/vereniging-buurland/toekomst/)
  
