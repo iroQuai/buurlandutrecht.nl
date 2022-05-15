@@ -6,8 +6,6 @@ description: Haast Pasen!
 ---
 ![](/images/img_2_1652641856956.jpg)
 
-![](/images/img_1_1652641842428.jpg)
-
 Yes feest! We wilden dus een kerstmarkt slash winterwonderland slash nieuwjaarsborrel gaan vieren in de tuinen. Maar het is al haast pasen, daarom presenteert de Haast Pasen organisatie voor jullie: "HAAST PASEN". 
 
 Je kent het wel, je buurman of jijzelf verkoopt zijn oude rommel/eigen handel/snuisterijen vanaf een kraampje, er zijn kampvuurtjes, er is livemuziek, de hottub staat aan, er is gluhwein, live muziek, er ontstaat een spontane modeshow, knutselclub of breakdancebattle. 
@@ -19,3 +17,5 @@ Als je iets op het podium wil doen, vinden wij dat uitermate fantastisch. Tot de
 Hou je niet zo van harde geluiden? Je hebt geluk! We zullen niet door gaan tot diep in de nacht (hoogstens uurtje of 22.00). Hou je wel van harde geluiden? Jij hebt ook geluk! op nog-niet-nader-te-noemen locatie gaat het feestje door. Wil je weten hoe de superrave vork in de steel zit? Vraag dan op de dag zelf aan 'iemand die er belangrijk uitziet' waar je moet wezen voor het raven. 
 
 DRESSCODE: Kom alsjeblieft verkleed! Het feest zal laveren tussen pasen en kerst, verkleed suggesties zijn: Paashaas, sexy kerstman, skipak, eierfetisch, op je paasbest, hazenoorjtes, kerst engel/paas engel, paus, kindersurprise, volwassensurprise, onesie met ontbijtvlekken of gewoon iets waar je je gemakkelijk in voelt.
+
+![](/images/img_1_1652641842428.jpg)
