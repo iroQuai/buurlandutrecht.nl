@@ -1,6 +1,6 @@
 ---
 title: De kracht van buurtcommunities
-date: '2013-11-19'
+date: 2013-11-19
 categories:
   - blog
 tags:
@@ -11,10 +11,12 @@ tags:
   - gemeenschap
   - gemeente
   - workshop
-lastmod: '2022-02-21T15:01:01.777Z'
+lastmod: 2022-05-17T20:40:01.088Z
 ---
 
-![jmu_festival250](images/jmu_festival250.jpg)
+{{< load-photoswipe >}}
+{{< figure src="/images/jmu_festival250.jpg" >}}
+
 Donderdag  21 november organiseert het "[Jij Maakt Utrecht Festival]( http://www.utrecht.nl/smartsite.dws?id=390775)" een workshop over buurtcommunities: ‘Brandst_of voor de buurt: de kracht van communities_’.
 
 Het gaat in de workshop over de praktijk van communitybuilders in buurten en wijken in Utrecht, over manieren van gemeenschapsvorming en over de vraag hoe in buurten en wijken een zo gunstig mogelijk klimaat kan ontstaan voor dit soort nieuwe communities.  Laat Buurland daar nu net een perfect praktijkvoorbeeld van zijn!

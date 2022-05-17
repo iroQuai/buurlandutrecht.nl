@@ -1,16 +1,17 @@
 ---
 title: Buurland tafelhost bij het Utrechtse vastgoeddiner
-date: '2014-10-27'
+date: 2014-10-27
 categories:
   - blog
 tags:
   - ruimtemakers
   - utrecht-2
   - vastgoeddiner
-lastmod: '2022-02-21T14:54:53.348Z'
+lastmod: 2022-05-17T20:35:16.953Z
 ---
+{{< load-photoswipe >}}
+{{< figure src="/images/vastgoeddiner-300x200.jpg" link="images/vastgoeddiner.jpg" >}}
 
-[![vastgoeddiner](images/vastgoeddiner-300x200.jpg)](images/vastgoeddiner.jpg)
 Maandagavond 27 oktober was Buurland Utrecht één van de 10 tafelhosts bij het Utrechtse Vastgoeddiner in de Werkspoorkathedraal.
 
 De Ruimtemakers organiseerden dit vastgoeddiner om meerdere redenen:

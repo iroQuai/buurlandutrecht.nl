@@ -1,6 +1,6 @@
 ---
 title: Kippen voor de eieren en kippen voor het vlees
-date: '2013-02-27'
+date: 2013-02-27
 categories:
   - media
 tags:
@@ -10,7 +10,7 @@ tags:
   - krant
   - media-2
   - piet
-lastmod: '2022-02-21T15:25:54.187Z'
+lastmod: 2022-05-17T21:02:25.621Z
 ---
 {{< gallery match="images/*" loadJQuery=true >}}
 

@@ -8,7 +8,7 @@ tags:
   - workshops
 image:
   - images/banner.jpg
-lastmod: 2022-05-17T11:56:02.025Z
+lastmod: 2022-05-17T20:29:09.746Z
 type: page
 ---
 
@@ -16,7 +16,7 @@ type: page
 Ha Buurlander,
 Heb jij ooit je buur geportretteerd? Of Buurland gevangen in een lied? Nee…? Doe dan mee aan de Buurland workshop reeks! 
 
-![test](images/banner.jpg)
+![banner](images/banner.jpg)
 
 Voor mijn onderzoek van de master visuele antropologie heb ik (Malìn) een aantal workshops ontworpen. Het doel is om uit te vinden hoe andere Buurlanders bepaalde aspecten in Buurland (hebben) ervaren. De focus ligt op creativiteit en het gebruik van audiovisuele middelen - tekenen, fotografie, objecten - om Buurland’s bestaan te onderzoeken. Vet leuk!
 

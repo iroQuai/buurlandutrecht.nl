@@ -1,15 +1,16 @@
 ---
 title: Informatie-avond renovatieplannen Buurland
-date: '2014-02-10'
+date: 2014-02-10
 categories:
   - blog
 tags:
   - bijeenkomst
   - buren
   - vereniging-buurland
-lastmod: '2022-02-21T15:16:11.381Z'
+lastmod: 2022-05-17T20:57:42.217Z
 ---
-{{< gallery match="images/*" loadJQuery=true thumbnailResizeOptions="600x600 q90 Lanczos" >}}
+{{< load-photoswipe >}}
+{{< figure src="/images/vereniging-buurland/vereniging-buurland-header.jpg" >}}
 
 Zou jij op een plek als Buurland willen wonen? Wij wel! Daarom onderzoeken de leden van Vereniging Buurland of het realistisch is om bijv. de huidige Buurland-panden te renoveren. beoogd resultaat? Kwalitatief goede en betaalbare (starters)woningen in diverse maten. Met natuurlijk die typische Buurland-sfeer in buiten- en binnenruimtes!
 

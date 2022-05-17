@@ -1,6 +1,6 @@
 ---
 title: Jat-Zee! Buurland Collectief op Solar 2014
-date: '2014-08-02'
+date: 2014-08-02
 categories:
   - blog
 tags:
@@ -9,14 +9,15 @@ tags:
   - festival
   - jat-zee
   - solar
-lastmod: '2022-02-21T15:24:23.997Z'
+lastmod: 2022-05-17T21:01:40.513Z
 ---
 
 Dit weekend toevallig op Solar Weekend Festival? In de buurt van Mainstage staat het Buurland Collectief met een nieuw doldwaas spel: JAT-ZEE!
 
 Iedereen, van stuurlui tot matroos, weet dat Solar zich dermate op internationale wateren begeeft, dat er een zekere wetteloosheid en vrijheid heerst. Behalve op het Buurland domein van Solar 2014. Daar zullen de deelnemers immers flink aan banden worden gelegd. Tractorbanden wel te verstaan!
 
-{{< gallery match="images/*" loadJQuery=true >}}
+{{< load-photoswipe >}}
+{{< gallery dir="/images/jat-zee-solar-2014/" caption-position="none" />}}
 
 Voor de landrotten die compleet van slag raken en deze vorm van zee slag nog niet kennen: hier volgt een korte beschrijving van dit kolkende, kabbelende kwalberoerende kornuiten toernooi. Een tweetal teams van vier personen proppen zich elk in één tractor binnenband. Hiermee verworden deze festivalgangers tot een achtbenig, vierkoppig botsauto/ maritiem-vehikel, dat er louter op uit is om zeeën te veroveren. In deze staat verkerende, dienen beide teams zeeën (objecten) uit elkaars thuisfront te jatten. Het team dat binnen een gezette tijd de meeste zeeën in hun basis weet te bemachtigen wint.
 

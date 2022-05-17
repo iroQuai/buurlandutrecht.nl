@@ -8,11 +8,11 @@ tags:
   - het-land
 lastmod: '2022-02-21T15:14:14.297Z'
 ---
-{{< gallery match="images/BuurlandDEF2.jpg" loadJQuery=true thumbnailResizeOptions="600x600 q90 Lanczos" >}}
+{{< load-photoswipe >}}
+{{< figure src="/images/het-land/het-land-thumb.jpg" link="/images/het-land/het-land.jpg" >}}
 
-[bron](http://rosaproducties.nl/blogpost/het-land-voor-de-dakhaas-4/)
-
- Ergens, midden in Utrecht, diep verscholen en onontdekt, ligt een land. Een heus land te midden van al het beton en algemene kaders. Officieel bestaat het niet, maar dat nemen de landbewoners niet zo serieus. Zij vinden zichzelf een land, hét Land, en dan zijn ze het ook.
+[bron](http://rosaproducties.nl/blogpost/het-land-voor-de-dakhaas-4/) 
+Ergens, midden in Utrecht, diep verscholen en onontdekt, ligt een land. Een heus land te midden van al het beton en algemene kaders. Officieel bestaat het niet, maar dat nemen de landbewoners niet zo serieus. Zij vinden zichzelf een land, hét Land, en dan zijn ze het ook.
 
 Een jaar of zeven geleden begon het allemaal. Een groep onbekenden ontmoetten elkaar op het onontgonnen Land. Ze zagen mogelijkheden. Kunst. Bouwsels. Niet lullen maar poetsen was door hen persoonlijk uitgevonden en het Land begon al snel vorm te krijgen. Het waren mensen die niet lachen om plannen die misschien onuitvoerbaar lijken. Om plannen die misschien wat megalomaan aan doen in eerste instantie. Schouders eronder en gaan. Want je leven maak je zelf, en dat weten ze maar al te goed.
 
