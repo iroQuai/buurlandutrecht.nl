@@ -156,5 +156,35 @@
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.content.snippets": {
+    "Hugo Easy Gallery - individuele images": {
+      "description": "Specifieke plaatjes kiezen als gallerij samen.  zie ook https://github.com/liwenyip/hugo-easy-gallery",
+      "body": [
+        "{{< load-photoswipe >}}",
+        "{{< gallery >}}",
+        "  {{< figure src=\"image1.jpg\" >}}",
+        "  {{< figure src=\"image2.jpg\" >}}",
+        "  {{< figure src=\"image3.jpg\" >}}",
+        "{{< /gallery >}}"
+      ],
+      "fields": []
+    },
+    "Hugo Easy Gallery - gallerij van folder": {
+      "description": "selecteer een folder om een gallerij van te maken. kijk ook op https://github.com/liwenyip/hugo-easy-gallery",
+      "body": [
+        "{{< load-photoswipe >}}",
+        "{{< gallery dir=\"/img/your-directory-of-images/\" />}}"
+      ],
+      "fields": []
+    },
+    "Hugo Easy Gallery - indivueel plaatje": {
+      "description": "één plaatje als \"figure\". aparte thumbnail en link. ",
+      "body": [
+        "{{< load-photoswipe >}}",
+        "{{< figure src=\"thumb.jpg\" link=\"image.jpg\" >}}"
+      ],
+      "fields": []
+    }
+  }
 }
