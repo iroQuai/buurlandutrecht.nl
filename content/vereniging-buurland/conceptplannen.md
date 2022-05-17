@@ -21,13 +21,13 @@ Zoals bedacht door [Vereniging Buurland](/vereniging-buurland), architect Ineke 
 - Het delen, creëren, organiseren en ondersteunen van projecten, activiteiten en werkzaamheden die bijdragen aan gemoedelijkheid van de buurt
 
 
-### Huidige situatie
+## Huidige situatie
 - Woningtype “twee-op-één”.
 - 60 m² per woning (op één of twee verdiepingen)
 
 ![indeling-huidig](/images/indeling-huidig.png)
 
-### Toekomstige indeling
+## Toekomstige indeling
 Woningen samenvoegen tot aantrekkelijke woningen
 - Beneden- of bovenwoning (Model A)
 - groepswoningen (Model B of E)

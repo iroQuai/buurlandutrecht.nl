@@ -9,9 +9,12 @@ enableInlineShortcodes = true
 
 #summarylength = 10
 
+paginate = '5'
+
 [params]
   description = "gemoedelijk wonen in hartje Utrecht"
   dateFormat = "mon 2 Jan 2006"
+
 
 [taxonomies]
   category = 'categories'
@@ -48,3 +51,4 @@ enableInlineShortcodes = true
   name = 'Contact'
   url = '/contact/'
   weight = 7  
+
