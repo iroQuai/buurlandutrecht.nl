@@ -6,7 +6,7 @@ categories:
 tags:
   - vroeger
   - foto
-lastmod: 2022-05-17T20:37:13.218Z
+lastmod: 2022-05-17T21:15:56.369Z
 ---
 De panden in Buurland zijn gebouwd vlak na de oorlog, eind jaren 40. Omdat er naast een woningtekort ook een grondstoffentekort was, werd er wat bezuinigd op materiaal. Dat is onder andere te merken aan de bakstenen; die zijn hol om grondstof te sparen.
 
@@ -14,5 +14,4 @@ Een kleine duik in het Utrechts Archief toont ons een aantal oude foto's van Buu
 
 
 {{< load-photoswipe >}}
-{{< figure src="/images/vroeger/65651-utrechts-archief.jpg" >}}
-{{< figure src="/images/vroeger/0000-utrechts-archief.jpg" >}}
+{{< gallery dir="/images/vroeger/" caption-position="none" />}}
