@@ -7,9 +7,9 @@ theme = ['hyde', 'hugo-shortcode-gallery']
 defaultContentLanguage = 'nl'
 enableInlineShortcodes = true
 
-#summarylength = 10
+summarylength = 10
 
-paginate = '5'
+paginate = 5
 
 [params]
   description = "gemoedelijk wonen in hartje Utrecht"
