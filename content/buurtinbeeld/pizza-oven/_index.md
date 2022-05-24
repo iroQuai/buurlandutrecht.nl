@@ -2,6 +2,7 @@
 layout: page
 title: Pizza-oven
 lastmod: 2022-05-17T20:03:07.425Z
+
 ---
 [Buurt in Beeld](/buurtinbeeld/)  
 

@@ -5,6 +5,8 @@ date: 2020-10-16T00:00:00.000Z
 lastmod: '2022-02-19T21:13:27.094Z'
 aliases:
   - /vereniging-buurland/
+showDate: false
+showActions: false
 ---
 
 ## Een korte geschiedenis

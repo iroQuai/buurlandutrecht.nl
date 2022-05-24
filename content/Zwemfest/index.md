@@ -2,6 +2,8 @@
 title: Zwemfest
 draft: false
 layout: page
+showDate: false
+showActions: false
 lastmod: 2022-05-17T20:13:01.304Z
 aliases:
   - /zwemfest/
