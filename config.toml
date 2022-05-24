@@ -20,10 +20,10 @@ theme = "hugo-tranquilpeak-theme"
 # disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
-# canonifyurls = true
+ canonifyurls = true
 
 [permalinks]
- # posts = "/berichten/:slug/"
+  posts = "/:slug/"
 
 [taxonomies]
   tag = "tags"
@@ -110,7 +110,7 @@ paginate = 7
   identifier = "facebook"
   name = ""
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook\" aria-hidden=\"true\"></i>"
-  url = "facebook.com/buurland.utrecht/"
+  url = "https://facebook.com/buurland.utrecht/"
 [[menu.links]]
   weight = 3
   identifier = "github"
