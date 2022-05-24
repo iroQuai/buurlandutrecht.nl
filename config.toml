@@ -77,7 +77,7 @@ paginate = 7
   name = 'Zwemfest'
   url = '/zwemfest/'
   weight = 3
-  [[menu.main]]
+[[menu.main]]
   identifier = 'verenigingbuurland'
   name = 'Vereniging Buurland'
   url = '/vereniging-buurland'
@@ -148,10 +148,10 @@ paginate = 7
   # Posts related configuration
   # ---------------------------
   # Global keywords configuration. Following keywords will be add to every pages
-  keywords = ["Utrecht", "Buurland", "buurtgemeenschap"]
+  # keywords = ["Utrecht", "Buurland", "buurtgemeenschap"]
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
-  clearReading = false
+  # clearReading = false
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo".
   # If false it will flat categories.
