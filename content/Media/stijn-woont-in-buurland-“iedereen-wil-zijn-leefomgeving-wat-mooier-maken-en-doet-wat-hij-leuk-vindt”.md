@@ -6,6 +6,8 @@ description: Bewoner Stijn Biemans vertelt over het ontstaan van Buurland, delen
   van een zwembad, kippenhok en boomhut in zijn achtertuin en over de vele
   activiteiten die er worden georganiseerd
 ---
-```
+
 
 ```
+
+`
