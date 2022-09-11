@@ -19,6 +19,7 @@ Iedere zomer organiseert Buurland Utrecht een buurtfeest. De achtertuinen krijge
 - [2018 - HET BUURNIVERSUM](/zwemfest/2018/)
 - [2019 - BRRRRIand](/zwemfest/2019/)
 - [2021 - BÜÜRLER MÜRLER](/zwemfest/2021/)
+- [2022 - Buurmuda Driehoek](zwemfest/2022/)
 
 {{< gallery >}}
   {{< figure src="/images/zwemfest/posters/2010.jpg" link="/zwemfest/2010/" caption="2010" >}} 
@@ -32,4 +33,5 @@ Iedere zomer organiseert Buurland Utrecht een buurtfeest. De achtertuinen krijge
   {{< figure src="/images/zwemfest/posters/2018.jpg" link="/zwemfest/2018/" caption="2018" >}} 
   {{< figure src="/images/zwemfest/posters/2019.jpg" link="/zwemfest/2019/" caption="2019" >}} 
   {{< figure src="/images/zwemfest/posters/2021.jpg" link="/zwemfest/2021/" caption="2021" >}} 
+  {{< figure src="/images/zwemfest/posters/2022.jpg" link="/zwemfest/2022/" caption="2022" >}} 
 {{< /gallery >}}
