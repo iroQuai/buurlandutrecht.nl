@@ -2,14 +2,13 @@
 title: Vic Willems maakt een muzikale ode aan zijn Buurland
 date: 2021-08-06
 categories:
-  - blog
   - media
 tags:
   - Muziek
   - Ode
   - Vic Willems
   - 3voor12
-lastmod: 2022-09-13T11:45:09.161Z
+lastmod: 2022-09-13T11:54:21.312Z
 ---
 BRON: [3voor12](https://3voor12.vpro.nl/lokaal/utrecht/artikelen/overzicht/2021/augustus/Vic-Willems-Tuinwijk-West.html)
 
