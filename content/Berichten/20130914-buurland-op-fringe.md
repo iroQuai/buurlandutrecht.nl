@@ -11,6 +11,7 @@ tags:
   - fringe
   - relatierace
 description: Buurland staat op Fringe festival met de Relatierace!
+lastmod: 2022-09-13T11:45:40.173Z
 ---
 
 [![fringe logo](/images/fringe-logo.jpg)](https://www.facebook.com/events/555134421203157/?fref=ts)
