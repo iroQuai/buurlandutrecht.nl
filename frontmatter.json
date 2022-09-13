@@ -186,5 +186,7 @@
       ],
       "fields": []
     }
-  }
+  },
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.templates.enabled": true
 }
