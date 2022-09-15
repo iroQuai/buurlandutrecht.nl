@@ -2,7 +2,7 @@
 layout: page
 title: Vereniging Buurland
 date: 2020-10-16T00:00:00.000Z
-lastmod: '2022-02-19T21:13:27.094Z'
+lastmod: 2022-09-15T22:19:58.628Z
 aliases:
   - /vereniging-buurland/
 ---
@@ -38,7 +38,7 @@ Onze droom:
 Om deze droom te verwezelijken is er een [organisatiestructuur](/vereniging-buurland/verenigingsstructuur/) opgesteld, zijn de [visie, missie, doelstellingen](/vereniging-buurland/missie-visie-doelstellingen) geformuleerd. Dromen en wensen zijn geconcretiseerd in [conceptplannen](/vereniging-buurland/conceptplannen/), er zijn [kostenramingen](/vereniging-buurland/kostenraming/) opgemaakt voor renovatie door architect (Ineke Hulshof) i.s.m.  Adviesbureau Van Nimwegen, er lopen gesprekken met Mitros, SSH, provincie en gemeente. 
 
 ## 7 jaar later; nieuwe tijdelijkheid.
-Het is 2020. De zeven stabiele jaren zijn ten einde. ook nu is wederom onzeker wanneer de sloop daadwerkelijk gaat starten. De huidige bewoners starten een nieuw offensief om Buurland te behouden: [buurland: met hoop op de toekomst](/vereniging-buurland/toekomst/)
+Het is 2020. De zeven stabiele jaren zijn ten einde. ook nu is wederom onzeker wanneer de sloop daadwerkelijk gaat starten. De huidige bewoners starten een nieuw offensief om Buurland te behouden: [buurland: met hoop op de toekomst](/berichten/20201016-toekomst/)
  
 
 

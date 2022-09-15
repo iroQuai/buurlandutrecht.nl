@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Wat wil Vereniging Buurland? 
+title: Wat wil Vereniging Buurland?
 date: 2020-10-16T00:00:00.000Z
-lastmod: '2022-02-19T21:13:27.094Z'
+lastmod: 2022-09-15T22:15:11.807Z
 aliases:
   - /vereniging-buurland/conceptplannen
 ---
@@ -20,18 +20,15 @@ Zoals bedacht door [Vereniging Buurland](/vereniging-buurland), architect Ineke 
 - Optimaal & duurzaam benutten van middelen, kennis en kunde binnen Buurland
 - Het delen, creëren, organiseren en ondersteunen van projecten, activiteiten en werkzaamheden die bijdragen aan gemoedelijkheid van de buurt
 
-
-## Huidige situatie
-- Woningtype “twee-op-één”.
-- 60 m² per woning (op één of twee verdiepingen)
-
-![indeling-huidig](/images/indeling-huidig.png)
-
-## Toekomstige indeling
-Woningen samenvoegen tot aantrekkelijke woningen
+**Woningen samenvoegen tot aantrekkelijke woningen**
 - Beneden- of bovenwoning (Model A)
 - groepswoningen (Model B of E)
 - Herenhuis (Model C)
 - dubbele maisonnette (Model D)
 
-![indeling-concept](/images/indeling-concept.png)
+![indeling-concept](/images/vereniging-buurland/indeling-concept.png)
+
+**zo is de indeling nu**
+- Woningtype “twee-op-één”.
+- 60 m² per woning (op één of twee verdiepingen)
+- [huidige indeling geillustreerd](/images/vereniging-buurland/indeling-huidig.png)
