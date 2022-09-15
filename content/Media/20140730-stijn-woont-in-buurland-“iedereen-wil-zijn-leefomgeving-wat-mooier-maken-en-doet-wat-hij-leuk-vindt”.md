@@ -5,7 +5,7 @@ date: 2014-07-29T22:21:19.732Z
 description: Bewoner Stijn Biemans vertelt over het ontstaan van Buurland, delen van een
   zwembad, kippenhok en boomhut in zijn achtertuin en over de vele activiteiten
   die er worden georganiseerd
-lastmod: 2022-09-13T12:08:18.943Z
+lastmod: 2022-09-15T22:56:58.428Z
 categories:
   - media
 tags:
@@ -22,7 +22,9 @@ BRON: [duic.nl](https://www.duic.nl/wonen/stijn-biemans-woont-in-buurland-iedere
 
 “Buurland is langzaam ontstaan. Het begon eigenlijk al met het snoeien van de tuinen in 2010, de buren kregen meer contact omdat we elkaar gewoon meer zagen. Op een gegeven moment had ik een bubbelbad. Ik dacht: ‘Laat ik het gewoon neerzetten, dit alles gaat toch weg.’ Sinds er een [zwembad](/buurtinbeeld/zwembad/) in de tuin werd gemaakt en het eerste [feestje](/zwemfest/2010/) werd gegeven, is Buurland langzaam een vrijplaatsje geworden.”
 
-![Untitled-1](https://platform-duic.imgix.net/app/uploads/sites/2/2016/04/Untitled-12.jpg)
+{{< load-photoswipe >}}
+{{< figure src="https://platform-duic.imgix.net/app/uploads/sites/2/2016/04/Untitled-12.jpg" >}}
+
 
 “Met de gedachte van ‘alles wordt toch gesloopt’ is er bijvoorbeeld ook een klimwand gekomen, zijn er gevels geverfd en is er een groentenkas gebouwd. Iemand heeft kippen en deelt de eieren die daar vandaan komen. We houden geregeld opruim- en snoeidagen een ook wordt er sinds 2010 ieder jaar een [festival](/zwemfest/) georganiseerd. Mensen steken meer moeite in hun omgeving. Iedereen wil zijn leefomgeving wat mooier maken en doet wat hij leuk vindt. Het heeft een hechte groep mensen opgeleverd. Er zijn ook veel mensen die naar deze plek willen verhuizen, omdat ze willen bijdragen aan de leefomgeving. Iedereen is welkom, als je maar lid bent van SSH.”
 

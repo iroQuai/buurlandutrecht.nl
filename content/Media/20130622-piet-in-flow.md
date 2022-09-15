@@ -1,19 +1,21 @@
 ---
-title: "Buurman Piet in FLOW magazine"
-date: "2013-06-22"
-categories: 
-  - "media"
-tags: 
-  - "buren"
-  - "kas"
-  - "kippen"
-  - "piet-baas"
-  - "wereldvercateraars"
+title: Buurman Piet in FLOW magazine
+date: 2013-06-22
+categories:
+  - media
+tags:
+  - buren
+  - kas
+  - kippen
+  - piet-baas
+  - wereldvercateraars
+lastmod: 2022-09-15T22:52:00.650Z
 ---
 
 > PIET BENTHEM _29 jaar | Utrecht | Gymleraar, cateraar, barman en ondernemer | [www.wereldvercateraars.nl](http://www.wereldvercateraars.nl)_
 
-[![piet flow foto](images/piet-flow-helemaal-300x217.jpg)](images/piet-flow-helemaal.jpg)
+{{< load-photoswipe >}}
+{{< figure src="/images/media/piet-flow-helemaal.jpg" link="/images/media/piet-flow-helemaal.jpg" >}}
 
 **Wat ben je aan het doen?** "Ik ben ondernemer, gymleraar en werk in een café. Lange tijd wilde ik in één ding heel goed worden. Na mijn tweede studie werkte ik kort bij een reclamebureau als creatief. Ik dacht dat ik het gemaakt had, maar ik zat er niet op mijn plek. Ik doe liever verschillende dingen tegelijk." 
 

@@ -1,6 +1,6 @@
 ---
 title: Behoud van Buurland
-date: '2014-03-22'
+date: 2014-03-22
 categories:
   - media
 tags:
@@ -8,10 +8,11 @@ tags:
   - utrecht-
   - vereniging-buurland
   - votulastkrant
-lastmod: '2022-02-21T14:42:54.041Z'
+lastmod: 2022-09-15T22:54:58.331Z
 ---
+{{< load-photoswipe >}}
+{{< figure src="/images/media/Votulastkrant-april-2014-300x293.png" link="/images/media/Votulastkrant-april-2014.png" >}}
 
-[![Votulastkrant april 2014](/images/media/Votulastkrant-april-2014-300x293.png)](/images/media/Votulastkrant-april-2014.png)
 Het is over het algemeen goed wonen in buurtgemeenschap Buurland: een jaarlijks buurtfestival en bewoners vol idealen en plannen om het er nog leuker te maken. Buurland wordt gevormd door vier blokken sloopwoningen tussen Troelstralaan en Willem van Abcoudeplein. Een groot deel van de bewoners wil inmiddels nooit meer weg. Ze laten onderzoeken wat de mogelijkheden zijn om de panden van Mitros over te nemen en zelf te laten renoveren. Bewoner Stijn (28): “Er is de afgelopen jaren best iets bijzonders ontstaan hier.” 
 
 Het zijn panden die volgens het gemeentelijk masterplan gesloopt moeten worden. Door de crisis schuiven de sloopplannen echter steeds verder op. Inmiddels verkeren de woningen van de Buurlanders in erbarmelijke staat. “Gelukkig is het een zachte winter geweest dit jaar,” lacht Stijn. Hij woont inmiddels al zeseneenhalf jaar op de Troelstralaan. Esther (26) woont er sinds twee jaar. Stijn: “De meesten van ons dachten dat we met een beetje geluk een jaartje konden blijven wonen. Maar het duurde en duurde maar, en er ontstonden steeds meer mooie dingen. Toen bedachten we hoe geweldig het zou zijn als we deze sfeer zouden kunnen behouden. Maar dat je wel de minpunten van hier wonen zou kunnen verbeteren: de kou, de verloedering, de vuilniszakken en de zooi overal. Er is gewoon veel achterstallig onderhoud.” Esther: “Je wil ergens wonen waar het fijn is. Nu is eigenlijk bijna alles al fijn, behalve de huidige staat van de woningen.” Stijn: “En de onzekerheid, die is ook niet fijn.”

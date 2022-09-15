@@ -9,7 +9,7 @@ tags:
   - festival
   - AD Utrechts Nieuwsblad
   - sloop
-lastmod: 2022-09-13T12:27:05.273Z
+lastmod: 2022-09-15T23:03:06.622Z
 ---
 BRON: [AD Utrechts Nieuwsblad](https://www.ad.nl/utrecht/dit-utrechtse-buurtje-viert-nog-een-keer-feest-daarna-wacht-de-sloopkogel-van-onze-wereld-word-je-blij~a7d062ca/?fbclid=IwAR3jbPaUE3tnz3vc11c-8ZncnwCxM94ZG_6eohggc13GSlKSVEGVQOZhvXw&fs=e&s=cl&cb=9434afb5d18d8700e27d2e3d9738ee36&auth_rd=1)
 

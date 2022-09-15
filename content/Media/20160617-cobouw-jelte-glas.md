@@ -1,23 +1,23 @@
 ---
-title: "Interview Jelte Glas @ Cobouw.nl"
-date: "2016-06-17"
-categories: 
-  - "blog"
-  - "media"
-tags: 
-  - "cpo"
-  - "jelte"
-  - "porta-palace"
-  - "tiny-house"
-  - "woonpioniers"
+title: Interview Jelte Glas @ Cobouw.nl
+date: 2016-06-17
+categories:
+  - blog
+  - media
+tags:
+  - cpo
+  - jelte
+  - porta-palace
+  - tiny-house
+  - woonpioniers
+lastmod: 2022-09-15T23:02:45.132Z
 ---
 
 Buurlander Jelte Glas werd door cobouw.nl geinterviewd over zijn project Porta Palace, een "Tiny House". In het interview komt ook Buurland ter sprake!
 
+{{< load-photoswipe >}}
+{{< figure src="/images/media/Porta-Palace_01.jpg" >}}
 ## Tiny houses: van experiment tot oplossing
-
-![](http://www.cobouw.nl/sites/default/files/styles/940x372/public/Porta-Palace-woonpioniers-Jelte%20Glas%20tiny%20house.jpg?itok=qlo75zyH&timestamp=1466111759)
-
 \[[bron - cobouw.nl](http://www.cobouw.nl/artikel/1634526-tiny-houses-van-experiment-tot-oplossing)\] Tiny houses? Modegril. Waarom zijn die nodig? De discussie op de Cobouw-redactie weerspiegelt waarschijnlijk die van de gemiddelde Cobouw-lezer. Daarom belde ik met [Jelte Glas](https://jelteglas.wordpress.com/woonpioniers/), ook Utrechter en zelfverklaard woonpionier. Hij bouwde samen met twee vrienden zijn eigen tiny house. En zoekt gemeentes met lef, waar hij zijn mobiele woonunit neer mag zetten. Zodat we door te experimenteren leren bouwen voor de toekomst. 
 
 Jelte vertelt dat hij een van die groeiende groep nieuwe woonconsumenten is die zelf hun huis wil bouwen of kiest voor een kleine woning, om de vaste lasten te verlagen. “Waarom zou je een hoge hypotheek afsluiten waarvoor je krom moet liggen en je twintig jaar vastzit? Als starter kun je niet zoveel: particuliere huur is er in Utrecht amper en anders veel te duur, voor een sociale huurwoning moet je bijna tien jaar wachten. En als je niet wilt kopen, omdat je je vrijheid wilt behouden, zijn er geen andere mogelijkheden meer.”
@@ -25,8 +25,6 @@ Jelte vertelt dat hij een van die groeiende groep nieuwe woonconsumenten is die
 ## Zelf renoveren
 
 Ik ontmoette Jelte voor het eerst in Buurland, een bijzondere plek tussen twee lage corporatieflats in het Utrechtse Tuinwijk. De aangekondigde sloop bleef maar uit, dus bouwden de jonge betrokken huurders in de aan elkaar grenzende tuinen hun eigen paradijs, met moestuinen, pizza-oven, boomhut, jacuzzi en kippenhok. Zo ontstond een buurtgemeenschap, die diverse activiteiten organiseerde, van festivals (Zwemfest) tot anti-inbraakborrels.
-
-## ![](images/buurland%20Utrecht.jpg)
 
 Tijdens een rondleiding daar bleek dat bouwkundige Jelte al groter dacht: waarom niet betaalbaar wonen in een schoon, gerenoveerd en veilig Buurland? Samen met 45 anderen startte hij een bewonerscollectief dat uitmondde in een CPO-groep, die inzetten op laagdrempelige renovatie in plaats van sloop en nieuwbouw. Na ellenlange en taaie onderhandelingen kreeg de enthousiast gestarte groep helaas het deksel op de neus: de corporatie zag hun plan (ontwikkeld met een architect en voorzien van financieringsmodel) niet zitten. Het complex is echter nog steeds niet gesloopt.
 

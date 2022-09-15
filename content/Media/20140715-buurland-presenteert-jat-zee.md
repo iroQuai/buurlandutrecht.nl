@@ -1,6 +1,6 @@
 ---
 title: Buurland presenteert Jat-Zee
-date: '2014-07-15'
+date: 2014-07-15
 categories:
   - media
 tags:
@@ -10,10 +10,10 @@ tags:
   - jat-zee
   - media
   - solar
-lastmod: '2022-02-21T14:54:17.214Z'
+lastmod: 2022-09-15T22:56:00.007Z
 ---
 
-\[[Bron: Solar Blog](http://solarweekend.com/nl/blog/buurland-presenteert-jat-zee)\] #Citizenvandeweek
+[[Bron: Solar Blog](http://solarweekend.com/nl/blog/buurland-presenteert-jat-zee)] #Citizenvandeweek
 
 Ahoy, zee-honden en wentel-teefjes van het heerlijk zonnig Roermondse strand!
 
@@ -29,4 +29,5 @@ Druk een punt en haal die stempel! JAT-ZEE, dat schept een band!
 
 Vriendelijke groet van de Buurland Dekzwabbers
 
-![JAT-zee](/images/jatzee.jpg)
+{{< load-photoswipe >}}
+{{< figure src="/images/jatzee.jpg" >}}
