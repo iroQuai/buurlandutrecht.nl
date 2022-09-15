@@ -2,13 +2,13 @@
 layout: page
 title: De organisatiestructuur
 date: 2020-10-16T00:00:00.000Z
-lastmod: '2022-02-19T21:13:27.094Z'
+lastmod: 2022-09-15T22:07:26.515Z
 aliases:
   - /vereniging-buurland/verenigingsstructuur/
 ---
 van [Vereniging Buurland](/vereniging-buurland)
 
-![verenigingsstructuur](images/structuur-vereniging.jpg)
+![verenigingsstructuur](/images/structuur-vereniging.jpg)
 
 ## Werkgroepen
 -  **Bestuur**  
