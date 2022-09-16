@@ -3,7 +3,9 @@ title: Zwemfest 5 in tekst en beeld
 date: 2014-09-02
 categories:
   - blog
-lastmod: 2022-09-16T19:57:15.067Z
+lastmod: 2022-09-16T20:04:08.591Z
+aliases:
+  - /berichten/zwemfest-5-in-tekst-en-beeld/
 ---
 {{< load-photoswipe >}}
 {{< figure src="/images/zwemfest2014/zwemfest5overzicht.jpg" >}}
