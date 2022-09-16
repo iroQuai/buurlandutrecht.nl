@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: contact
 title: Contact
-lastmod: '2022-02-19T22:22:46.522Z'
+lastmod: 2022-09-16T20:07:53.160Z
 ---
 Persoonlijk contact wordt altijd gewaardeerd! Gebruik het formulier hieronder om een berichtje te sturen.
 
