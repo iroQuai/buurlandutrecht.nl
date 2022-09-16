@@ -1,8 +1,7 @@
 {{ define "main" -}}
 <div class="post">
-  <h1>TEST {{ .Title }}</h1>
+  <h1>{{ .Title }}</h1>
   {{ .Content }}
-</div>
 
 <form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true">
     <input type="hidden" name="form-name" value="contact" />
@@ -36,6 +35,7 @@
     <div class="form-group">
         <button type="submit" value="Submit" id="Form-submit">Verstuur</button>
     </div>
+	</div>
 </form>
 
 
