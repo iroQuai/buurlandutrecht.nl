@@ -12,8 +12,10 @@ Wist je dat Buurland bijna een permanente status had gekregen? Er waren vergevor
 
 ![lauwerecht-2-4](/images/vereniging-buurland/wijk.jpg)
 
-### Tijdelijke bewoning voorafgaand aan sloop (2005)
-Begin van deze eeuw, na ruim 60jr permanente bewoning, ontstaat bij Mitros het idee om de panden te slopen. Er worden plannen gemaakt voor nieuwbouw. Zoals gebruikelijk op veel plekken, worden de oorspronkelijke bewoners stap-voor-stap vervangen voor tijdelijke bewoners met een anti-kraak-contract (relatief veel woning voor een acceptabele prijs, met als belangrijkste 'catch' dat je ieder moment te horen kan krijgen dat je er over een paar maanden uit moet). De woningmarkt was ook toen al krap. Voor studenten en starters was dit een prima huisvestingsdeal!   
+### De beginjaren
+De panden in Buurland zijn gebouwd vlak na de tweede wereldoorlog, eind jaren 40. (zie ook: [Buurland in vroeger tijden](berichten/buurland-vroeger/)). Ruim 60 jaar zijn de panden permanent bewoond, tot Mitros begin deze eeuw plannen maakte om de boel te slopen zodat er ruimte komt voor nieuwe woningen, zoals deze ook in de omliggende straten gebouwd waren. 
+
+Zoals toen gebruikelijk, worden de oorspronkelijke bewoners stap-voor-stap vervangen voor tijdelijke bewoners met een anti-kraak-contract. (De deal: Relatief veel woning voor een acceptabele prijs, met als belangrijkste 'catch' dat je ieder moment te horen kan krijgen dat je er over een paar maanden uit moet). Ook toen was de woningmarkt al krap, dus voor studenten en starters was dit een prima huisvestingsdeal!   
 
 ![straatbeeld](/images/vereniging-buurland/straatbeeld.jpg)
 
