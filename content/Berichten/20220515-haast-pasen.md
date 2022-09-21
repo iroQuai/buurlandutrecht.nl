@@ -1,9 +1,10 @@
 ---
 title: Haast Pasen
-categories: 
+categories:
   - blog
 date: 2022-03-05T20:19:37.764Z
 description: Haast Pasen!
+lastmod: 2022-09-21T18:15:29.278Z
 ---
 ![](/images/img_2_1652641856956.jpg)
 

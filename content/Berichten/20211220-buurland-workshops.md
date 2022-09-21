@@ -1,5 +1,5 @@
 ---
-title: Doe mee aan De Buurland Workshops!
+title: Doe mee aan De Buurland Workshops
 date: 2021-12-16T00:00:00.000Z
 categories:
   - blog
@@ -8,7 +8,7 @@ tags:
   - workshops
 image:
   - images/banner.jpg
-lastmod: 2022-05-17T21:21:19.513Z
+lastmod: 2022-09-21T18:15:34.393Z
 type: page
 ---
 
