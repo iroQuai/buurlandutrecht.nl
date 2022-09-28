@@ -47,7 +47,7 @@
           <label for="fname">Naam</label>
         </div>
         <div class="col-75">
-          <input type="text" id="name" name="name" placeholder="Naam">
+          <input type="text" id="name" name="name" placeholder="Naam" required="" autocomplete="off">
         </div>
       </div>
       <!-- Text input-->
@@ -56,7 +56,16 @@
           <label for="lname">e-mail adres</label>
         </div>
         <div class="col-75">
-          <input type="email" placeholder="Email" id="lname" name="email">
+          <input type="email" placeholder="Email" id="lname" name="email" required="" autocomplete="off">
+        </div>
+      </div>
+      <!-- Text input-->
+      <div class="row">
+        <div class="col-25">
+          <label for="lname">Onderwerp</label>
+        </div>
+        <div class="col-75">
+          <input id="contact-form-subject" name="Subject" type="text" placeholder="onderwerp" required="" autocomplete="off">
         </div>
       </div>
       <!-- Text area-->
@@ -68,9 +77,10 @@
           <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
         </div>
       </div>
+
       <!-- Button -->
       <div class="row">
-        <input type="submit" value="Submit">
+        <input type="submit" value="Verstuur">
       </div>
     </form>
   </div>
