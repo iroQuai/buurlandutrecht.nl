@@ -2,16 +2,15 @@
 layout: page
 title: Vereniging Buurland
 date: 2020-10-16T00:00:00.000Z
-lastmod: 2022-09-15T22:25:24.805Z
+lastmod: 2022-09-28T20:22:57.846Z
 aliases:
   - /vereniging-buurland/
 ---
-
-## Een korte geschiedenis
 Wist je dat Buurland bijna een permanente status had gekregen? Er waren vergevorderde plannen om de panden over te nemen en in zelfbeheer op te knappen. Benieuwd hoe dat zit? Lees hieronder verder!
 
 ![lauwerecht-2-4](/images/vereniging-buurland/wijk.jpg)
 
+> {{< details title="Meer lezen over de tussentijdse periode? *klik hier*" open=false >}}
 ### De beginjaren
 De panden in Buurland zijn gebouwd vlak na de tweede wereldoorlog, eind jaren 40. (zie ook: [Buurland in vroeger tijden](berichten/buurland-vroeger/)). Ruim 60 jaar zijn de panden permanent bewoond, tot Mitros begin deze eeuw plannen maakte om de boel te slopen zodat er ruimte komt voor nieuwe woningen, zoals deze ook in de omliggende straten gebouwd waren. 
 
@@ -26,13 +25,11 @@ De bewoners kunnen hun geluk niet op als de einddatum keer-op-keer geschoven wor
 
 ### Mitros komt voor een keuze (2012)
 Omdat de panden gesloopt zouden worden, is er weinig aan groot onderhoud gedaan. Mitros komt voor een keuze te staan: Toch slopen, of investeren in een opknapbeurt voor de komende zeven jaar? Diverse Buurland-bewoners besluiten hierop invloed uit te willen oefenen... 
+{{< /details >}}
 
----
-
-![notaris](/images/vereniging-buurland/notaris-crop.jpg)
 ## 2012-2014: Vereniging buurland!
 Met een steeds krappere woningmarkt, worden concepten als 'Collectief Particulier Ondernemerschap', 'Zelfbouw' en 'Klushuizen' _hot item_ in woningbouwland. Ook Mitros beraadt zich op een alternatief voor de 'buurland-panden'. Met ondersteuning van Jasper van de Wal (van Nimwegen) werken diverse buurtbewoners aan een plan om de panden van Buurland te redden van de sloop, in zelfbeheer op te knappen. Vereniging Buurland ziet het levenslicht! 
-
+![notaris](/images/vereniging-buurland/notaris-crop.jpg)
 Onze droom: 
 1. Betaalbaar wonen in een gerenoveerd, duurzaam en gemoedelijk Buurland
 2. Gemeenschappelijke binnen- en buitenruimtes ter bevordering van de sociale cohesie
