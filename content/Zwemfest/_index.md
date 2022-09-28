@@ -2,12 +2,13 @@
 title: Zwemfest buurtfestivals
 draft: false
 layout: page
-lastmod: 2022-09-13T11:35:00.798Z
+lastmod: 2022-09-28T20:00:34.393Z
 aliases:
   - /zwemfest/
 ---
 Iedere zomer organiseert Buurland Utrecht een buurtfeest. De achtertuinen krijgen een opruimbeurt, worden aan elkaar gekoppeld en krijgen een eigen rol toebedeeld. Al het mooie van Buurland wordt hierbij in het zonnetje gezet (denk hierbij aan het zwembad en jaccuzi, de sauna, de pizza-oven en de groentekas, maar ook aan alle talenten uit de wijk) 
 
+{{< details title="Benieuwd naar alle thema's? *klik hier*" open=false >}}
 - [2010 - MTV The Grind Edition](/zwemfest/2010/) 
 - [2011 - The Bubbling Edition](/zwemfest/2011/)
 - [2012 - Super de Buur](/zwemfest/2012/)
@@ -20,7 +21,7 @@ Iedere zomer organiseert Buurland Utrecht een buurtfeest. De achtertuinen krijge
 - [2019 - BRRRRIand](/zwemfest/2019/)
 - [2021 - BÜÜRLER MÜRLER](/zwemfest/2021/)
 - [2022 - Buurmuda Driehoek](/zwemfest/2022/)
-
+{{< /details >}}
 
 {{< gallery >}}
   {{< figure src="/images/zwemfest/posters/2010.jpg" link="/zwemfest/2010/" caption="2010 - MTV The Grind Edition" >}} 
