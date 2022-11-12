@@ -8,7 +8,7 @@ aliases:
 ---
 Iedere zomer organiseert Buurland Utrecht een buurtfeest. De achtertuinen krijgen een opruimbeurt, worden aan elkaar gekoppeld en krijgen een eigen rol toebedeeld. Al het mooie van Buurland wordt hierbij in het zonnetje gezet (denk hierbij aan het zwembad en jaccuzi, de sauna, de pizza-oven en de groentekas, maar ook aan alle talenten uit de wijk) 
 
-> {{< details title="Benieuwd naar alle thema's? *klik hier*" open=false >}}
+{{< details title="Benieuwd naar alle thema's? *klik hier*" open=false >}}
 - [2010 - MTV The Grind Edition](/zwemfest/2010/) 
 - [2011 - The Bubbling Edition](/zwemfest/2011/)
 - [2012 - Super de Buur](/zwemfest/2012/)
