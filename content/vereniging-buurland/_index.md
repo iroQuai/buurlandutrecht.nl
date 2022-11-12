@@ -26,6 +26,7 @@ Mitros heeft onze plannen serieus overwogen. Helaas kregen we eind 2014 een defi
 ### Meer weten? 
 Hieronder staan de plannen nog veel uitgebreider uitgewerkt. Verlekker je gerust aan dit prachtige idee en baal met ons mee dat het nooit van de grond is gekomen...
 
+
 {{< details title="**Missie, Visie en Doelstellingen**" open=false >}}
 ## Gemoedelijk wonen [Visie]
 ### **Een locatie met betaalbare, zelfstandige woningen voor leden van vereniging Buurland, met gemeenschappelijke binnen- en buitenruimtes ter bevordering van de sociale cohesie.**  [Missie] 
@@ -40,6 +41,7 @@ Hieronder staan de plannen nog veel uitgebreider uitgewerkt. Verlekker je gerust
 6. Onderhouden van contacten met externe partijen/ belanghebbenden (ook stakeholders. Denk hierbij aan gemeente, woningbouwverenigingen, architecten, etc.
 
 {{< /details >}}
+
  
 {{< details title="**Conceptplannen**" open=false >}}
 **Renovatie voor lange termijn (minimaal 30 jaar):**
@@ -68,6 +70,7 @@ Hieronder staan de plannen nog veel uitgebreider uitgewerkt. Verlekker je gerust
 - [huidige indeling geillustreerd](/images/vereniging-buurland/indeling-huidig.png)
 {{< /details >}}
  
+
 {{< details title="**Kostenraming**" open=false >}}
 Onderstaande kostenraming is gemaakt in 2013 door het bestuur van Vereniging Buurland in samenwerking met Ineke Hulshof en Jasper van Nimwegen. Bedragen zijn in euro's
 
@@ -88,10 +91,8 @@ Onderstaande kostenraming is gemaakt in 2013 door het bestuur van Vereniging Buu
 | - 100% huur [^1]                                 |  €354   |  €395   |  €478   |  €425   |  €411   |
 
 [^1]: Kosten op basis van 100% huur in coöperatieve vereniging met zelfwerkzaamheid
-
-
-
 {{< /details >}}
+
 
 {{< details title="**Verenigingsstructuur**" open=false >}}
 ![verenigingsstructuur](/images/vereniging-buurland/structuur-vereniging.jpg)
@@ -114,6 +115,7 @@ Onderstaande kostenraming is gemaakt in 2013 door het bestuur van Vereniging Buu
 
 {{< /details >}}
 
+
 {{< details title="**Informatie over de voorafgaande periode**" open=false >}}
 > ### De beginjaren
 > De panden in Buurland zijn gebouwd vlak na de tweede wereldoorlog, eind jaren 40. (zie ook: [Buurland in vroeger tijden](berichten/buurland-vroeger/)). Ruim 60 jaar zijn de panden permanent bewoond, tot Mitros begin deze eeuw plannen maakte om de boel te slopen zodat er ruimte komt voor nieuwe woningen, zoals deze ook in de omliggende straten gebouwd waren. 
@@ -132,9 +134,9 @@ De bewoners kunnen hun geluk niet op als de einddatum keer-op-keer geschoven wor
 {{< /details >}}
 
 
-## 7 jaar later; nieuwe tijdelijkheid.
+{{< details title="**7 jaar later; nieuwe tijdelijkheid.**" open=false >}}
 Het is 2020. De zeven stabiele jaren zijn ten einde. ook nu is wederom onzeker wanneer de sloop daadwerkelijk gaat starten. De huidige bewoners starten een nieuw offensief om Buurland te behouden: [buurland: met hoop op de toekomst](/berichten/20201016-toekomst/)
- 
+{{< /details >}} 
 
 
 
