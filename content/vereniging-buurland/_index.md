@@ -10,16 +10,16 @@ Wist je dat Buurland bijna een permanente status had gekregen? In de periode 201
 
 ![lauwerecht-2-4](/images/vereniging-buurland/wijk.jpg)
 
-De Buurland-panden werden verhuurd in een soort anti-kraak constructie. Prima voor even, maar niet geschikt voor een situatie die jaren voortbestaat. Gebrekkig onderhoud maakte de panden steeds minder prettig bewoonbaar. Na een aantal jaar beseft Mitros zo niet verder te kunnen. Er word nagedacht over een alternatief voor de 'buurland-panden'. De twee meest voor de hand liggende opties: Slopen en iets nieuws bouwen, of investeren in een opknapbeurt voor de komende zeven jaar. Diverse Buurland-bewoners besluiten werk te maken van een derde optie: Een permanent Buurland, waarbij de panden in zelfbeheer worden opgeknapt.
+De Buurland-panden werden sinds begin van deze eeuw verhuurd in een soort anti-kraak constructie. Prima voor even, maar niet geschikt voor een situatie die jaren voortbestaat. Gebrekkig onderhoud maakte de panden steeds minder prettig bewoonbaar. Na een aantal jaar beseft Mitros zo niet verder te kunnen. Er word nagedacht over een alternatief voor de 'buurland-panden'. De twee meest voor de hand liggende opties: Slopen en iets nieuws bouwen, of investeren in een opknapbeurt voor de komende zeven jaar. Diverse Buurland-bewoners besluiten werk te maken van een derde optie: Een permanent Buurland, waarbij de panden in zelfbeheer worden opgeknapt.
 
 ### Vereniging Buurland ziet het levenslicht!
-Een aantal bewoners komt in contact met buurtbewoner Jasper van Adviesbureau van Nimwegen. Hij besluit ons te helpen om onze droom te realiseren. Die was tweeledig: 
+Een aantal bewoners komt in contact met buurtbewoner Jasper van der Wal van Adviesbureau van Nimwegen. Hij besluit ons te helpen om onze droom te realiseren. Die droom was tweeledig: 
 1. Betaalbaar wonen in een gerenoveerd, duurzaam en gemoedelijk Buurland
 2. Gemeenschappelijke binnen- en buitenruimtes ter bevordering van de sociale cohesie
 
 ![notaris](/images/vereniging-buurland/notaris-crop.jpg)
 
-De plannen steeds concreter. Er werd een verenigingsstructyuur opgesteld, visie, missie en doelstellingen werden expliciet gemaakt, dromen en wensen zijn geconcretiseerd in conceptplannen inclusief bijbehorende kostenraming voor renovatie (hierbij ondersteund door architect Ineke Hulshof). Er werden diverse serieuze gesprekken gevoerd met de betrokken organisaties: Mitros (woningbouwvereniging, huidige eigenaar van de panden), SSH (de uitvoerende verhuurinstantie), Provincie en Gemeente. 
+De plannen werden steeds concreter. Er werd een verenigingsstructuur opgesteld, visie, missie en doelstellingen werden expliciet gemaakt, dromen en wensen werden geconcretiseerd in conceptplannen, inclusief bijbehorende kostenraming voor renovatie (hierbij ondersteund door architect Ineke Hulshof). Er werden diverse serieuze gesprekken gevoerd met de betrokken organisaties: Mitros (woningbouwvereniging, huidige eigenaar van de panden), SSH (de uitvoerende verhuurinstantie), Provincie en Gemeente. 
 
 Mitros heeft onze plannen serieus overwogen. Helaas kregen we eind 2014 een definitief "NEE" te horen van Mitros. Er werd toch gekozen voor een gedeeltelijke renovatie, genoeg om de bewoners zeven jaar rustig in Buurland te laten wonen. Mitros had de hoop na die zeven jaar een betere markt te hebben en hun plannen opnieuw te kunnen overwegen. 
 
