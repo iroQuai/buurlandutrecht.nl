@@ -415,7 +415,6 @@ a.pagination-item:hover {
 */
 
 details {
-    border: 1px solid #aaa;
     border-radius: 4px;
     padding: .5em .5em 0;
 }
@@ -428,10 +427,11 @@ summary {
 }
 
 details[open] {
+    border: 1px solid #aaa;
     padding: .5em;
 }
 
 details[open] summary {
-    border-bottom: 1px solid #aaa;
+    border-bottom: 0px solid #aaa;
     margin-bottom: .5em;
 }
