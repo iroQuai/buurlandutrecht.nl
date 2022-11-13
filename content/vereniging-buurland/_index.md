@@ -44,6 +44,18 @@ Hieronder staan de plannen nog veel uitgebreider uitgewerkt. Verlekker je gerust
 
  
 {{< details title="**Conceptplannen**" open=false >}}
+![huidige indeling geillustreerd](/images/vereniging-buurland/indeling-huidig.png)
+
+Op dit moment zijn alle woningen in Buurland ongeveer 60m², verdeeld over één of twee verdiepingen ("woningtype twee-op-één" wordt dit ook wel genoemd) 
+
+**Het plan: Woningen samenvoegen tot aantrekkelijke woningen**
+- Beneden- of bovenwoning (Model A)
+- groepswoningen (Model B of E)
+- Herenhuis (Model C)
+- dubbele maisonnette (Model D)
+
+![indeling-concept](/images/vereniging-buurland/indeling-concept.png)
+
 **Renovatie voor lange termijn (minimaal 30 jaar):**
 - Geluids- en warmte-isolatie
 - Collectieve, duurzame warmte-installatie en energie-opwekking (b.v. stadsverwarming of zonnecollectoren)
@@ -55,19 +67,6 @@ Hieronder staan de plannen nog veel uitgebreider uitgewerkt. Verlekker je gerust
 **Sociale leefbaarheid behouden en bevorderen:**
 - Optimaal & duurzaam benutten van middelen, kennis en kunde binnen Buurland
 - Het delen, creëren, organiseren en ondersteunen van projecten, activiteiten en werkzaamheden die bijdragen aan gemoedelijkheid van de buurt
-
-**Woningen samenvoegen tot aantrekkelijke woningen**
-- Beneden- of bovenwoning (Model A)
-- groepswoningen (Model B of E)
-- Herenhuis (Model C)
-- dubbele maisonnette (Model D)
-
-![indeling-concept](/images/vereniging-buurland/indeling-concept.png)
-
-**zo is de indeling nu**
-- Woningtype “twee-op-één”.
-- 60 m² per woning (op één of twee verdiepingen)
-- [huidige indeling geillustreerd](/images/vereniging-buurland/indeling-huidig.png)
 {{< /details >}}
  
 
