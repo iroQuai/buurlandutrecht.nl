@@ -43,7 +43,7 @@ Hieronder staan de plannen nog veel uitgebreider uitgewerkt. Verlekker je gerust
 {{< /details >}}
 
  
-{{< details title="**Conceptplannen**" open=false >}}
+{{< details title="**het plan: renovatie en herindeling**" open=false >}}
 ![huidige indeling geillustreerd](/images/vereniging-buurland/indeling-huidig.png)
 
 Op dit moment zijn alle woningen in Buurland ongeveer 60m², verdeeld over één of twee verdiepingen ("woningtype twee-op-één" wordt dit ook wel genoemd) 
@@ -71,7 +71,9 @@ Op dit moment zijn alle woningen in Buurland ongeveer 60m², verdeeld over één
  
 
 {{< details title="**Kostenraming**" open=false >}}
-Onderstaande kostenraming is gemaakt in 2013 door het bestuur van Vereniging Buurland in samenwerking met Ineke Hulshof en Jasper van Nimwegen. Bedragen zijn in euro's
+Onderstaande kostenraming is gemaakt in 2013 door het bestuur van Vereniging Buurland in samenwerking met Ineke Hulshof en Jasper van Nimwegen. 
+
+NB: de genoemde modellen worden hierboven verder gespecificeerd.
 
 
 | Categorieën-overzicht                            | Model A | Model B | Model C | Model D | Model E |
