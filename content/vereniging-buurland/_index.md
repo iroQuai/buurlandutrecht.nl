@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Buurland permanent?
+title: Vereniging Buurland
 date: 2020-10-16T00:00:00.000Z
-lastmod: 2022-11-11T11:11:21.174Z
+lastmod: 2022-11-15T11:45:08.823Z
 aliases:
   - /vereniging-buurland/
 ---

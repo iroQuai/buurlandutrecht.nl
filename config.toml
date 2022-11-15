@@ -33,7 +33,7 @@ paginate = 5
   weight = 3
   [[menu.main]]
   identifier = 'verenigingbuurland'
-  name = 'Permanent Buurland?'
+  name = 'Vereniging Buurland'
   url = '/vereniging-buurland'
   weight = 4
 [[menu.main]]
