@@ -1,0 +1,45 @@
+baseURL: 'https://buurland.netlify.app/'
+languageCode: nl
+title: Buurland Utrecht
+theme: hyde
+  
+defaultContentLanguage: nl
+enableInlineShortcodes: true
+summarylength: 50
+# paginate: 5
+
+params:
+  description: gemoedelijk wonen in hartje Utrecht
+  dateFormat: mon 2 Jan 2006
+
+taxonomies:
+  category: categories
+  tag: tags
+
+# Menu
+menu:
+  main:
+    - identifier: buurtinbeeld
+      name: Buurt in Beeld
+      url: /buurtinbeeld/
+      weight: 2
+    - identifier: zwemfest
+      name: Zwemfest
+      url: /zwemfest/
+      weight: 3
+    - identifier: verenigingbuurland
+      name: Vereniging Buurland
+      url: /vereniging-buurland
+      weight: 4
+    - identifier: media
+      name: In de media
+      url: /categories/media/
+      weight: 5
+    - identifier: blog
+      name: Berichten
+      url: /categories/blog/
+      weight: 6
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 7
