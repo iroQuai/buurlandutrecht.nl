@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vogelverschrikker
-lastmod: 2022-05-17T20:04:38.798Z
+lastmod: 2022-11-15T22:45:12.507Z
 ---
 [Buurt in Beeld](/buurtinbeeld/)  
 

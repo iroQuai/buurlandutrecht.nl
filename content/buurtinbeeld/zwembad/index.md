@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zwembad
-lastmod: 2022-05-17T20:05:32.907Z
+lastmod: 2022-11-15T22:45:12.504Z
 ---
 [Buurt in Beeld](/buurtinbeeld/)  
 

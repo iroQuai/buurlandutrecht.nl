@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Buurt in Beeld
-lastmod: 2022-05-17T20:13:16.202Z
-type: page
+lastmod: 2022-11-15T22:44:12.782Z
+layout: page
 ---
 Deelkippen, een buurtkas, zwembaden, boomhutten en totempalen – Buurland is moeilijk in woorden te vangen. In beeld gaat het des te beter! Klik op de foto’s hieronder voor een meer informatie.
 

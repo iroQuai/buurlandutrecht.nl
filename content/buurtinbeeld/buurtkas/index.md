@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Buurtkas
-lastmod: '2022-02-19T21:09:50.025Z'
---- 
+lastmod: 2022-11-15T22:44:26.559Z
+---
+ 
 [Buurt in Beeld](/buurtinbeeld/)  
 
 In de buurtkas in Buurland wordt groente en fruit verbouwd (denk aan tomaten, komkommer, paprika, sla en diverse kruiden). Achter in de kas is een kleinschalig aquaponicssysteem gebouwd met een aquarium en groeibedden met hydrokorrels. In dit systeem word het door uitwerpselen vervuilde water naar de groeibedden gepompt, waar de planten het water zuiveren door de uitwerpselen als voeding te gebruiken. Het gezuiverde water stroomt hierna weer terug naar het aquarium.

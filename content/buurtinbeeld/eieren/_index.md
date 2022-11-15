@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kippen (en eieren)
-lastmod: 2022-09-15T22:35:36.554Z
+lastmod: 2022-11-15T22:45:12.500Z
 ---
 [Buurt in Beeld](/buurtinbeeld/)  
 
