@@ -1,12 +1,3 @@
-[submodule "themes/hugo-shortcode-gallery"]
-	path = themes/hugo-shortcode-gallery
-	url = https://github.com/mfg92/hugo-shortcode-gallery.git
 [submodule "themes/hyde"]
 	path = themes/hyde
 	url = https://github.com/spf13/hyde.git
-[submodule "themes/hyde-hyde"]
-	path = themes/hyde-hyde
-	url = https://github.com/htr3n/hyde-hyde.git
-[submodule "themes/hugo-tranquilpeak-theme"]
-	path = themes/hugo-tranquilpeak-theme
-	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git

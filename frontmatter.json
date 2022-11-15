@@ -188,5 +188,8 @@
     }
   },
   "frontMatter.content.autoUpdateDate": true,
-  "frontMatter.templates.enabled": true
+  "frontMatter.templates.enabled": true,
+  "frontMatter.taxonomy.categories": [
+    "blog"
+  ]
 }
