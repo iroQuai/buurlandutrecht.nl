@@ -1,5 +1,5 @@
 ---
-title: 3voor12 over Zwemfest 2022
+title: "3voor12: 'Buurland Festival vindt dit jaar voor de laatste keer plaats'"
 date: 2022-08-09
 categories:
   - media
@@ -7,10 +7,9 @@ tags:
   - zwemfest
   - festival
   - 3voor12
-lastmod: 2022-09-13T12:03:16.344Z
+lastmod: 2022-11-18T21:47:33.080Z
 ---
 BRON: [3voor12](https://3voor12.vpro.nl/lokaal/utrecht/update~b79d7824-3978-4897-9055-7ca80a0ea3fa~buurland-festival-vindt-dit-jaar-voor-de-laatste-keer-plaats~.html)
- ## Buurland Festival vindt dit jaar voor de laatste keer plaats
 ### Zink nog één keer af naar de bodem van de zee
 *Eén van de leukste en intiemste Utrechtse festivals vindt zaterdag 13 augustus voor (waarschijnlijk) de allerlaatste keer plaats. Buurland festival wordt inmiddels al meer dan tien keer georganiseerd door en voor de bewoners van de portiekflats in de Staatsliedenbuurt. De geplande sloop van de flats maakt een einde aan dit sympathieke diy-initiatief. Je kunt je komend weekend nog één keer onderdompelen in het bijzondere Buurland universum.*
 

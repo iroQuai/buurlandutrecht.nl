@@ -1,6 +1,6 @@
 ---
 title: Informatiebijeenkomst groot succes
-date: '2014-02-11'
+date: 2014-02-11
 categories:
   - twitter
   - blog
@@ -9,6 +9,7 @@ tags:
   - buren
   - twitter
   - vereniging-buurland
-lastmod: '2022-02-21T15:17:53.878Z'
+lastmod: 2022-11-18T21:52:27.918Z
 ---
 {{< tweet user="BuurlandUtrecht" id="433240761383915522" >}}
+<!--more-->

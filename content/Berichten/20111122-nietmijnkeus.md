@@ -9,10 +9,10 @@ tags:
   - nietmijnkeus
   - snoeien
   - tuinieren
-lastmod: 2022-09-16T18:33:39.434Z
+lastmod: 2022-11-18T21:54:37.726Z
 ---
 
-Stel, je wil iets kopen maar je weet niet wat. [www.nietmijnkeus.nl](http://www.nietmijnkeus.nl) helpt je daarbij! Buurlanders Ineke en Stijn namen de proef op de som en bestelde "Iets". Zie hieronder het resulaat!
+Stel, je wil iets kopen maar je weet niet wat. [www.nietmijnkeus.nl](http://www.nietmijnkeus.nl) helpt je daarbij! Buurlanders Ineke en Stijn namen de proef op de som en bestelde "Iets". Zie hieronder het resulaat!<!--more-->
 
 {{< load-photoswipe >}}
 {{< gallery dir="/images/nietmijnkeus/" caption-position="none" />}}

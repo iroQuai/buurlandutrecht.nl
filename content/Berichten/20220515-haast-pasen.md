@@ -4,7 +4,7 @@ categories:
   - blog
 date: 2022-03-05T20:19:37.764Z
 description: Haast Pasen!
-lastmod: 2022-09-21T18:15:29.278Z
+lastmod: 2022-11-18T21:23:37.781Z
 ---
 ![](/images/img_2_1652641856956.jpg)
 
@@ -13,6 +13,8 @@ Yes feest! We wilden dus een kerstmarkt slash winterwonderland slash nieuwjaarsb
 Je kent het wel, je buurman of jijzelf verkoopt zijn oude rommel/eigen handel/snuisterijen vanaf een kraampje, er zijn kampvuurtjes, er is livemuziek, de hottub staat aan, er is gluhwein, live muziek, er ontstaat een spontane modeshow, knutselclub of breakdancebattle. 
 
 Jij bent bij deze uitgenodigd! Kom gezellig langs! We beginnen rond een uurtje of 12.00! BYOB 
+
+<!--more-->
 
 Als je iets op het podium wil doen, vinden wij dat uitermate fantastisch. Tot de late middag is het podium beschikbaar voor een open mic of jam. Daarna zullen `Poodle' en 'Great Joy' (beide met bandleden uit de buurt) spelen in de podiumtuin. Wil jij zelf een kraampje op de markt hosten? Ga je gang, zet jouw tafeltje (of vraag je buur om een tafel) in één van de tuinen rond de kas (we hebben de zegen van bewoners van de desbetreffende tuinen) en prijs je waar aan (ik beloof je dat je rijk gaat worden). 
 

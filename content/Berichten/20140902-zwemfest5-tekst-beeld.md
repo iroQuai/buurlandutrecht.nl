@@ -3,7 +3,7 @@ title: Zwemfest 5 in tekst en beeld
 date: 2014-09-02
 categories:
   - blog
-lastmod: 2022-09-16T20:04:08.591Z
+lastmod: 2022-11-18T21:50:24.229Z
 aliases:
   - /berichten/zwemfest-5-in-tekst-en-beeld/
 ---
@@ -22,3 +22,4 @@ Op zaterdag 23 augustus organiseerde Buurland Utrecht alweer de 5e editie van Zw
 - [Inspiratie in tekst #2 - Rosa Scholtens](/berichten/zwemfest-5-inspiratie-in-tekst-2/)
 
 {{< gallery dir="/images/zwemfest5/" />}}
+

@@ -8,7 +8,7 @@ tags:
   - workshops
 image:
   - images/banner.jpg
-lastmod: 2022-09-21T18:15:34.393Z
+lastmod: 2022-11-18T21:49:24.269Z
 type: page
 ---
 
@@ -23,3 +23,5 @@ Voor mijn onderzoek van de master visuele antropologie heb ik (Malìn) een aanta
 De creaties die hieruit ontstaan, kunnen de basis vormen voor een Buurland fotoboek, expositie, scheurkalender, of (interactieve) website. Dat bepalen we samen tijdens de workshops.
 
 Benieuwd? [Lees dan snel meer!](/docs/DeBuurlandWorkshops.pdf) 
+
+<!--more-->

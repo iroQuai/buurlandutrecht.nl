@@ -9,13 +9,13 @@ tags:
   - festival
   - jat-zee
   - solar
-lastmod: 2022-05-17T21:01:40.513Z
+lastmod: 2022-11-18T21:52:21.485Z
 ---
 
 Dit weekend toevallig op Solar Weekend Festival? In de buurt van Mainstage staat het Buurland Collectief met een nieuw doldwaas spel: JAT-ZEE!
 
 Iedereen, van stuurlui tot matroos, weet dat Solar zich dermate op internationale wateren begeeft, dat er een zekere wetteloosheid en vrijheid heerst. Behalve op het Buurland domein van Solar 2014. Daar zullen de deelnemers immers flink aan banden worden gelegd. Tractorbanden wel te verstaan!
-
+<!--more-->
 {{< load-photoswipe >}}
 {{< gallery dir="/images/jat-zee-solar-2014/" caption-position="none" />}}
 

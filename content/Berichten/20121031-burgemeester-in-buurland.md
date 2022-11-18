@@ -10,10 +10,10 @@ tags:
   - politie
   - rondleiding
   - wijkmanager
-lastmod: 2022-11-15T22:10:13.991Z
+lastmod: 2022-11-18T21:54:32.634Z
 layout: single
 ---
 
 Zojuist onze burgemeester, Aleid Wolfsen, een rondleiding gegeven door Buurland Utrecht tijdens zijn werkbezoek aan de Staatsliedenbuurt. Ook wijkmanager en politie was aanwezig. Interessant om te horen was dat vanaf het moment dat wij als buurt energie zijn gaan steken in onze omgeving en buren, het aantal inbraken drastisch is gedaald!
 
-![Aleid Wolfsen](/images/Aleid-Wolfsen.jpg)
+![Aleid Wolfsen](/images/Aleid-Wolfsen.jpg)<!--more-->

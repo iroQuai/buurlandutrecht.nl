@@ -1,6 +1,6 @@
 ---
 title: Onderzoek naar zelforganisatie
-date: '2014-03-17'
+date: 2014-03-17
 categories:
   - blog
   - twitter
@@ -14,6 +14,7 @@ tags:
   - sterrestad
   - twitter
   - zelforganisatie
-lastmod: '2022-02-21T15:47:24.581Z'
+lastmod: 2022-11-18T21:52:00.646Z
 ---
 {{< tweet user="BuurlandUtrecht" id="445132633442623488" >}}
+<!--more-->

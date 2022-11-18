@@ -11,11 +11,11 @@ tags:
   - ruimtemakers
   - utrecht
   - wereldvercateraars
-lastmod: 2022-09-16T18:54:21.353Z
+lastmod: 2022-11-18T21:50:44.908Z
 ---
 
 Vandaag zijn de Utrechtse Ruimtemakers bij elkaar gekomen in Buurland Utrecht voor heerlijke zeewier-burgers van de [Wereldvercateraars](https://www.facebook.com/dewereldvercateraars) en een rondleiding door Buurland Utrecht.  Een kleine fotoreportage door de [Utrechtse Ruimtemakers](https://www.facebook.com/utrechtseruimtemakers) zelf is te vinden in dit [facebook-bericht](https://www.facebook.com/utrechtseruimtemakers/posts/910346152439960). 
-
+<!--more-->
 {{< load-photoswipe >}}
 {{< figure src="/images/ruimtemakers-bezoeken-buurland/Ruimtemakersbezoek4.jpg" >}}
 
