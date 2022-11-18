@@ -14,8 +14,7 @@ tags:
 lastmod: 2022-09-16T18:37:37.563Z
 ---
 
-{{< load-photoswipe >}}
-{{< figure src="/images/omfietsen.jpg" captionPositon="none" >}}
+![](/images/omfietsen.jpg)
 
 [Nieuw Utrecht](https://www.facebook.com/NieuwUtrecht) heeft de bezoekers van [Culturele Zondagen](https://www.facebook.com/culturelezondagen) afgelopen weekend laten omfietsen buiten de gebaande paden met rondleidingen langs Westplein, Zijdebalen, de werkspoorkathedraal en natuurlijk Buurland Utrecht!
 
@@ -25,4 +24,4 @@ Benieuwd wat er verteld werd tijdens het omfietsen? Een deel van de presentaties
 
 
 {{< tweet user="PaulusJansenSP" id="470159037481615360" >}}
-
+<!--more-->
