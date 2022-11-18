@@ -8,10 +8,11 @@ tags:
   - buurderij
   - buurt
   - festival
-lastmod: 2022-05-17T20:50:55.761Z
+lastmod: 2022-11-18T22:03:35.925Z
 ---
 
 Vanaf morgen te koop in Buurland: Ansichtkaarten! Te versturen vanuit de Buurland Brievenbus, te vinden in de Ruiltuin op de Buurderij!
 
-{{< load-photoswipe >}}
-{{< figure src="/images/ansichtkaart.jpg" >}}
+![](/images/ansichtkaart.jpg)
+
+<!--more-->

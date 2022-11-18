@@ -6,7 +6,7 @@ theme: hyde
 defaultContentLanguage: nl
 enableInlineShortcodes: true
 summarylength: 70
-# paginate: 5
+paginate: 5
 
 params:
   description: gemoedelijk wonen in hartje Utrecht

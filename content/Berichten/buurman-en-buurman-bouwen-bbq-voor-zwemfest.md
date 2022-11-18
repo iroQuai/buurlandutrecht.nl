@@ -8,8 +8,9 @@ tags:
   - festival
   - wereldvercateraars
   - zwemfest
-lastmod: 2022-05-17T20:39:07.770Z
+lastmod: 2022-11-18T22:06:28.182Z
 ---
 Waarom kopen als je er ook een zelf kan maken :) 
-{{< load-photoswipe >}}
-{{< figure src="/images/bbq-bouwen.jpg" >}}
+
+![](/images/bbq-bouwen.jpg)
+<!--more-->
