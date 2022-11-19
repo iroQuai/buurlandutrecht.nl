@@ -1,5 +1,5 @@
 baseURL: 'https://buurland.netlify.app/'
-languageCode: nl
+languageCode: nl-nl
 title: Buurland Utrecht
 theme: hyde
   
@@ -10,7 +10,7 @@ paginate: 5
 
 params:
   description: gemoedelijk wonen in hartje Utrecht
-  dateFormat: mon 2 Jan 2006
+  dateFormat: monday 2 Januari 2006
 
 taxonomies:
   category: categories
