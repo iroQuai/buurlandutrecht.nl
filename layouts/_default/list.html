@@ -2,21 +2,17 @@
 <div class="posts">
 {{ range .Data.Pages -}}
 <article class="post">
-  <h2 class="post-title">
+  <h1 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
-  </h2>  <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "2 Jan 2006" }}</time>
-  
+  </h1>
+  <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
   {{ .Summary }}
   {{ if .Truncated }}
   <div class="read-more-link">
     <a href="{{ .RelPermalink }}">Lees meer…</a>
-
-  {{ end}}  
   </div>
-
-
+  {{ end }}
 </article>
 {{- end }}
 </div>
 {{- end }}
-
