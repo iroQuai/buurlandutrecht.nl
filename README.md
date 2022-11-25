@@ -3,7 +3,7 @@
 
 Nieuwe versie van de buurland site, gemaakt in [Hugo](https://www.gohugo.io),   
 
-Na een ruime 6 jaar zonder updates is het zo ver: *de Buurland website is vernieuwd!*
+Na een ruime 6 jaar zonder updates is het zo ver: **de Buurland website is vernieuwd!**
 _Check www.buurlandutrecht.nl_
 
 
