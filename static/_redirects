@@ -1,0 +1,3 @@
+# http and https need separate rules if you don’t force_ssl!
+http://smoelenboek.buurlandutrecht.nl/ http://www.buurlandutrecht.nl/smoelenboek/:splat 301!
+https://smoelenboek.buurlandutrecht.nl/ https://www.buurlandutrecht.nl/smoelenboek/:splat 301!
