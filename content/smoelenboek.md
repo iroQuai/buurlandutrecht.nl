@@ -5,4 +5,4 @@ layout: page
 ---
 Altijd al benieuwd geweest wie die Buurlanders zijn? check [het smoelenboek](https://docs.google.com/presentation/d/1h2RkaU0gB0hagqWy8G8sS0yEhXQDLQ_FrOb5LvZUvRo/edit?usp=drivesdk)
 
-{{< iframe2 src="https://docs.google.com/presentation/d/1h2RkaU0gB0hagqWy8G8sS0yEhXQDLQ_FrOb5LvZUvRo/embed?start=false&loop=true&delayms=3000" >}} 
+{{< iframe2 src=https://docs.google.com/presentation/d/1h2RkaU0gB0hagqWy8G8sS0yEhXQDLQ_FrOb5LvZUvRo/embed?start=false&loop=true&delayms=3000 >}} 
