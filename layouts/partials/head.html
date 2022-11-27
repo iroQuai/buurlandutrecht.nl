@@ -7,8 +7,10 @@
 
   <!-- no index if set noindex: true in yaml -->
   {{ if .Params.noindex }}
-  <meta name="robots" content="noindex" /> 
+  <meta name="robots" content="noindex,nofollow" /> 
   {{ end }}
+  
+  
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
