@@ -7,8 +7,3 @@ HUGO_VERSION = "0.99.1"
 [context.deploy-preview]
 command = "hugo -b $DEPLOY_PRIME_URL"
 
-[[redirects]]
-  from = "https://smoelenboek.buurlandutrecht.nl"
-  to = "https://www.buurlandutrecht.nl/smoelenboek/"
-  status = 301
-  force = true
