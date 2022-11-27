@@ -29,15 +29,15 @@ menu:
       weight: 3
     - identifier: verenigingbuurland
       name: Vereniging Buurland
-      url: /vereniging-buurland
+      url: /vereniging-buurland/
       weight: 4
     - identifier: media
       name: In de media
-      url: /categories/media/
+      url: /media/
       weight: 5
     - identifier: blog
       name: Berichten
-      url: /categories/blog/
+      url: /berichten/
       weight: 6
     - identifier: contact
       name: Contact
