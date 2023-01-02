@@ -1,4 +1,4 @@
-# [buurlandutrecht.nl](buurlandutrecht.nl)
+# [buurlandutrecht.nl](https://buurlandutrecht.nl)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=buurlandutrecht.nl&up_color=green&up_message=online&url=https%3A%2F%2Fbuurlandutrecht.nl)](https://www.buurlandutrecht.nl) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/iroQuai/buurlandutrecht.nl/main) [![Netlify Status](https://api.netlify.com/api/v1/badges/65371a63-9511-4c85-b553-61b00d6080a3/deploy-status)](https://app.netlify.com/sites/buurland/deploys) 
 
 Nieuwe versie van de buurland site, gemaakt in [Hugo](https://www.gohugo.io),   
