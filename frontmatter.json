@@ -191,5 +191,6 @@
   "frontMatter.templates.enabled": true,
   "frontMatter.taxonomy.categories": [
     "blog"
-  ]
+  ],
+  "frontMatter.dashboard.openOnStart": true
 }

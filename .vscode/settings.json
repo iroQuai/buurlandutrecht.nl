@@ -1,5 +1,4 @@
 {
-    "frontMatter.dashboard.openOnStart": true,
     "files.associations": {
         "*.yaml": "home-assistant"
     }
