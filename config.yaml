@@ -1,7 +1,9 @@
 baseURL: 'https://www.buurlandutrecht.nl/'
 languageCode: nl-nl
 title: Buurland Utrecht
-theme: hyde
+theme: 
+  - hyde
+  - hugo-easy-gallery
   
 defaultContentLanguage: nl
 enableInlineShortcodes: true
