@@ -5,7 +5,7 @@ date: 2014-07-29T22:21:19.732Z
 description: Bewoner Stijn Biemans vertelt over het ontstaan van Buurland, delen van een
   zwembad, kippenhok en boomhut in zijn achtertuin en over de vele activiteiten
   die er worden georganiseerd
-lastmod: 2022-09-15T22:56:58.428Z
+lastmod: 2023-01-31T22:36:31.526Z
 categories:
   - media
 tags:
@@ -19,7 +19,7 @@ BRON: [duic.nl](https://www.duic.nl/wonen/stijn-biemans-woont-in-buurland-iedere
 **“Zwembad, sauna, moestuin, touwbrug, pizza-oven, klimwand, jacuzzi, kippen, boomhut, veel gekleurde gevels en bijzondere feestjes – dat is Buurland!” De omschrijving van Buurland op Facebook doet denken aan een speeltuin, maar in feite is het een omschrijving van de veredelde bewonersvereniging van een blok sloopwoningen voor studenten en starters in de [Staatsliedenbuurt](https://www.google.nl/maps/place/Staatsliedenbuurt,+Utrecht/@52.103501,5.1172165,16z/data=!3m1!4b1!4m2!3m1!1s0x47c66f3f25e8f5ab:0xaf4f2ddc2ab22cb0) in Utrecht.** 
 
 **Bewoner Stijn Biemans vertelt over het ontstaan van Buurland, delen van een zwembad, kippenhok en boomhut in zijn achtertuin en over de vele activiteiten die er worden georganiseerd.**
-
+<!--more-->
 “Buurland is langzaam ontstaan. Het begon eigenlijk al met het snoeien van de tuinen in 2010, de buren kregen meer contact omdat we elkaar gewoon meer zagen. Op een gegeven moment had ik een bubbelbad. Ik dacht: ‘Laat ik het gewoon neerzetten, dit alles gaat toch weg.’ Sinds er een [zwembad](/buurtinbeeld/zwembad/) in de tuin werd gemaakt en het eerste [feestje](/zwemfest/2010/) werd gegeven, is Buurland langzaam een vrijplaatsje geworden.”
 
 {{< load-photoswipe >}}

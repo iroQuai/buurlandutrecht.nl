@@ -9,17 +9,15 @@ tags:
   - festival
   - AD Utrechts Nieuwsblad
   - sloop
-lastmod: 2022-11-18T21:58:48.255Z
+lastmod: 2023-01-31T22:35:00.405Z
 ---
 BRON: [AD Utrechts Nieuwsblad](https://www.ad.nl/utrecht/dit-utrechtse-buurtje-viert-nog-een-keer-feest-daarna-wacht-de-sloopkogel-van-onze-wereld-word-je-blij~a7d062ca/?fbclid=IwAR3jbPaUE3tnz3vc11c-8ZncnwCxM94ZG_6eohggc13GSlKSVEGVQOZhvXw&fs=e&s=cl&cb=9434afb5d18d8700e27d2e3d9738ee36&auth_rd=1)
-
-{{< load-photoswipe >}}
 
 {{< figure src="/images/ad-buurmuda-01.jpg" caption="Lonneke Weuring en Luc Loois (ook bekend onder zijn artiestennaam BoterBoter) zijn druk bezig de decors klaar te maken voor het laatste Buurlandfestival. Thema dit keer: 'Buurmuda Driehoek'. © Angeliek de Jonge" >}}
 
 ## Dit Utrechtse buurtje viert nog één keer feest, daarna wacht de sloopkogel: ‘Van onze wereld word je blij’
 *Misschien het kleinste maar zeker een van de meest sympathieke festivals in Utrecht wordt zaterdag voor de laatste keer gehouden: het Buurlandfestival in de Staatsliedenbuurt in Utrecht. Nog één keer zorgeloos feesten tussen de portiekflats, daarna volgt - eindelijk - de sloopkogel.*
-
+<!--more-->
 Waar kom je terecht als je verdwijnt in de Bermuda Driehoek? Wees gerust: in een haast paradijselijke, verborgen gebleven locatie in Utrecht. Ergens waar je ongedwongen jezelf kunt zijn. Je komt bovendrijven op een plekje in de Utrechtse Staatsliedenbuurt. Men kent er geen dikdoenerij en het leven staat er bol van de saamhorigheid. Ze houden er ook nog eens van een feestje. Welkom in Buurland!
 
 Iets preciezer: Buurland bestaat uit 150 portiekflats in de omgeving van de Nolenslaan. Het zijn flats die eigenaar Mitros meer dan tien jaar geleden al wilde slopen om door nieuwbouw te vervangen. Een uitloper nog van het stadsvernieuwingsproject Talmalaan en omgeving. Maar het kwam er maar niet van. Mede door de kredietcrisis kreeg de sloopkogel tot nu toe geen kans.
@@ -47,3 +45,5 @@ De verhuurder vindt dan ook dat er een les te leren valt in Buurland: zorg er bi
 Maar eerst laten de Buurlanders zich opslokken in hun Buurmuda Driehoek. Met dj’s in de vinyltuin, silent disco, huiskamerconcerten, vegetarisch eten, een cocktailbar, karaoke en muzikale optredens uit Buurland zelf: Poodle, Great Joy, BoterBoter en Vic Willems. De laatste singer-songwriter schreef al eens een liedje over Buurland: ,,Alles wordt hier gesloopt, maar dat duurt nog even. Tot die tijd blijf ik leven.’’
 
 **Verslaggever Maarten Venderbosch maakte samen met zijn broer Marcel Venderbosch het boekje Buurland, een verborgen paradijs in Utrecht, dat zaterdag tijdens het festival wordt gepresenteerd.**
+
+{{< load-photoswipe >}}

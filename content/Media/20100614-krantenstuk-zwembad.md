@@ -7,8 +7,8 @@ tags:
   - krant
   - tuin
   - zwembad
-lastmod: 2022-09-15T22:37:28.972Z
+lastmod: 2023-01-31T22:41:13.564Z
 ---
 
-{{< load-photoswipe >}}
 {{< figure src="/images/media/krantenstuk-zwembad.jpg" >}}
+{{< load-photoswipe >}}

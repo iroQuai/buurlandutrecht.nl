@@ -8,12 +8,12 @@ tags:
   - Ode
   - Vic Willems
   - 3voor12
-lastmod: 2022-09-13T11:54:21.312Z
+lastmod: 2023-01-31T22:35:32.986Z
 ---
 BRON: [3voor12](https://3voor12.vpro.nl/lokaal/utrecht/artikelen/overzicht/2021/augustus/Vic-Willems-Tuinwijk-West.html)
 
 **Met ‘Tuinwijk-West’ heeft Vic Willems een ode gemaakt aan Buurland, het kleine en creatieve buurtje in de Utrechtse Staatsliedenbuurt dat op de nominatie staat gesloopt te worden. Het is de eerste keer in lange tijd dat de Utrechtse songwriter met een eigen nummer van zich laat horen. We spraken hem over zijn buurt en wat hij de afgelopen zestien maanden allemaal heeft gedaan.**
-
+<!--more-->
 **[Buurland](https://buurlandutrecht.nl/)** is een complex van 150 portiekflats in de Utrechtse Staatsliedenbuurt, dat in de komende jaren vervangen gaat worden door nieuwe woningen. Tot het zover is worden de flats via SSH verhuurd aan de huidige bewoners. Onder die bewoners zijn er behoorlijk wat met een creatieve of muzikale achtergrond, wat in de afgelopen tien jaar voor een heel eigen sfeer en allerlei toffe initiatieven en evenementen heeft gezorgd. Vandaag heeft songwriter [**Vic Willems**](https://www.instagram.com/vic_willems) een ode uitgebracht aan de buurt waar hij zelf ook woont.
 
 Willems heeft ‘Tuinwijk-West’ al wat langer geleden geschreven en het nummer tijdens de eerste lockdown gefilmd. “Ik wilde iets nuttigs met die lockdown doen, ik kwam mijn huis en buurt nauwelijks nog uit, het leek me toepasselijk om dan ook iets op te nemen op de plekken waar ik vrijwel al mijn tijd doorbracht. Na het filmen heb ik het nummer een jaar lang op de plank laten liggen. Er was geen urgentie en het editten was toch wat complexer dan ik dacht.” Hulp van mede-muzikant en vriend Mark Lohmann die ‘maar ik kan dat gewoon’ zei, zorgde ervoor dat de registratie werd afgemaakt.” Willems heeft er bewust voor gekozen om het nummer nu uit te brengen: “We zitten hopelijk wel zo’n beetje tegen het einde van deze lockdown.”

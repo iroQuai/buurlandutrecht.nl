@@ -14,13 +14,13 @@ tags:
   - stijn
   - super-de-buur
   - zwemfest
-lastmod: 2022-09-15T22:50:25.687Z
+lastmod: 2023-01-31T22:42:50.072Z
 ---
-{{< load-photoswipe >}}
+
 {{< figure src="/images/media/buurland-in-votulastkrant-klein-225x300.png" link="/images/media/buurland-in-votulastkrant.jpg" >}}
 
 **Wat gebeurt er toch allemaal in de tuinen van het woonblok Nolenslaan / Samuel Mullerstraat? Op dit moment niet veel. "Maar bij de eerste zonnestralen gaat iedereen bouwen," vertelt Stijn Biemans.**
-
+<!--more-->
 Aan de achterkant van de flats grenzen de tuinen aan elkaar zodat er een grote binnentuin ontstaat. Sommige achtergevels zijn in vrolijke kleuren geschilderd. Er hangt een touwbrug, er staat een bank hoog in de lucht, het zwembad is bevroren en het bubbelbad ligt onder een laagje sneeuw. De moestuin is kaal. "En dit is de sauna," wijst Stijn Biemans. "En daar hebben buren die een cateringsbedrijf hebben, de Wereldvercateraars, een pizzaoven gebouwd." Dit is Buurland, een vrolijk klein vrijstaatje tussen de flats die op de wachtlijst voor sloop staan. Stijn kwam hier vier jaar geleden als student wonen. De plannen van Mitros voor verkoop, sloop en nieuwbouw zijn op de lange baan geschoven door de crisis. Zodoende woont Stijn er nog steeds.
 
 {{< figure src="/images/media/1360963008_Bruisend_buurland.jpg" >}}
@@ -32,3 +32,4 @@ Aan de achterkant van de flats grenzen de tuinen aan elkaar zodat er een grote b
 **huiskamer en groentetas** Ook voor 2013 zijn er plannen. "We deden alles buiten, maar we zouden ook wel een plek binnen willen hebben. Een huiskamer voor de buurt waar je even koffie gaat drinken, of waar je gaat zitten werken en waar eens in de zoveel tijd een maaltijd georganiseerd wordt. Maar op de juiste constructie daarvoor zijn we nog aan het puzzelen." Ook zouden de bewoners graag muurschilderingen aanbrengen om graffiti te voorkomen. En als de moestuin groter wordt opgezet kan er misschien een 'groentetas' voor de buurt worden aangeboden.
 
 Kijk op de facebookpagina van buurland voor aankondigingen van komende activiteiten: [https://www.facebook.com/buurland.utrecht](http://https//www.facebook.com/buurland.utrecht)
+{{< load-photoswipe >}}

@@ -10,13 +10,13 @@ tags:
   - porta-palace
   - tiny-house
   - woonpioniers
-lastmod: 2022-09-15T23:02:45.132Z
+lastmod: 2023-01-31T22:34:39.092Z
 ---
 
 Buurlander Jelte Glas werd door cobouw.nl geinterviewd over zijn project Porta Palace, een "Tiny House". In het interview komt ook Buurland ter sprake!
 
-{{< load-photoswipe >}}
 {{< figure src="/images/media/Porta-Palace_01.jpg" >}}
+<!--more-->
 ## Tiny houses: van experiment tot oplossing
 \[[bron - cobouw.nl](http://www.cobouw.nl/artikel/1634526-tiny-houses-van-experiment-tot-oplossing)\] Tiny houses? Modegril. Waarom zijn die nodig? De discussie op de Cobouw-redactie weerspiegelt waarschijnlijk die van de gemiddelde Cobouw-lezer. Daarom belde ik met [Jelte Glas](https://jelteglas.wordpress.com/woonpioniers/), ook Utrechter en zelfverklaard woonpionier. Hij bouwde samen met twee vrienden zijn eigen tiny house. En zoekt gemeentes met lef, waar hij zijn mobiele woonunit neer mag zetten. Zodat we door te experimenteren leren bouwen voor de toekomst. 
 
@@ -59,3 +59,4 @@ _P.S.: Inmiddels heeft ook Utrecht een Heijmans One, ingezet als gemeenschappeli
 ### Stap op de woonladder
 
 [Volgens Jelte](https://stedenintransitie.nl/interview/jelte-glas) bieden tiny houses ook interessante woonoplossingen voor tijdelijk beschikbare kavels in de stad. Deze units zouden zo de ideale tussenstap op de woonladder kunnen vormen, tussen wonen in een studentenwoning, en het kopen van een huis. Wil iemand vervolgens toch permanenter of ruimer wonen, dan zijn de units eenvoudig door te verkopen of her te gebruiken als recreatiewoning. Samen met Arthur en Daniël van Woonpioniers probeert Jelte ook voor langere termijn afspraken te maken met vastgoedbeheerders, om mensen voor een afgebakende periode ‘modern nomadisch’ te laten wonen in bijvoorbeeld een kantoorpand, maar ook op een braakliggend terrein. _Lees meer op [www.woonpioniers.nl](http://www.woonpioniers.nl/)_
+{{< load-photoswipe >}}

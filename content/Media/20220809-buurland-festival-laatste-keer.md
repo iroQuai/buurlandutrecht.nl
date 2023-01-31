@@ -7,12 +7,12 @@ tags:
   - zwemfest
   - festival
   - 3voor12
-lastmod: 2022-11-18T21:47:33.080Z
+lastmod: 2023-01-31T22:35:25.348Z
 ---
 BRON: [3voor12](https://3voor12.vpro.nl/lokaal/utrecht/update~b79d7824-3978-4897-9055-7ca80a0ea3fa~buurland-festival-vindt-dit-jaar-voor-de-laatste-keer-plaats~.html)
 ### Zink nog één keer af naar de bodem van de zee
 *Eén van de leukste en intiemste Utrechtse festivals vindt zaterdag 13 augustus voor (waarschijnlijk) de allerlaatste keer plaats. Buurland festival wordt inmiddels al meer dan tien keer georganiseerd door en voor de bewoners van de portiekflats in de Staatsliedenbuurt. De geplande sloop van de flats maakt een einde aan dit sympathieke diy-initiatief. Je kunt je komend weekend nog één keer onderdompelen in het bijzondere Buurland universum.*
-
+<!--more-->
 Buurland is een complex van 150 portiekflats in de Utrechtse Staatsliedenbuurt, dat in de komende jaren vervangen gaat worden door nieuwe woningen. Tot het zover is worden de flats via SSH verhuurd aan de huidige bewoners. Onder die bewoners zijn er behoorlijk wat met een creatieve of muzikale achtergrond. In de afgelopen tien jaar heeft dat voor een heel eigen sfeer en allerlei toffe initiatieven en evenementen gezorgd, waarvan Buurland festival er één is. In augustus 2021 bracht (bewoner en muzikant) Vic Willems een [muzikale ode](/berichten/20210806-vic-willems-tuinwijk-west/) uit aan Buurland.
 
 Het thema van de editie van dit jaar is De Buurmuda Driehoek. De aankondiging van de organisatoren geeft wel enigszins een beeld van wat je kunt verwachten:
