@@ -42,6 +42,6 @@ menu:
       url: /berichten/
       weight: 6
     - identifier: contact
-      name: Contact
+      name: Contact & FAQ
       url: /contact/
       weight: 7
