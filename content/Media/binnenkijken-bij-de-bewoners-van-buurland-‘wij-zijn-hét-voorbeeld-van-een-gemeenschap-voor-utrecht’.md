@@ -1,14 +1,16 @@
 ---
-title: "Binnenkijken bij de bewoners van Buurland: ‘Wij zijn hét voorbeeld van
-  een gemeenschap voor Utrecht’"
+title: "Binnenkijken bij de bewoners van Buurland: ‘Wij zijn hét voorbeeld van een gemeenschap voor Utrecht’"
 date: 2023-08-07T20:23:28.127Z
-description: Na jaren uitstel is de (sloop)kogel nu echt door de kerk. In
-  oktober 2023 moeten alle bewoners van woongemeenschap Buurland hun huis uit en
-  wordt de boel platgegooid. Ongeveer honderd bewoners zijn nu op zoek naar een
-  nieuwe plek om hun hechte community voort te zetten. Spiek nog snel even
-  binnen met bewoners Marije Kruijt (28) en Justin Thijssen (28).
+description: Na jaren uitstel is de (sloop)kogel nu echt door de kerk. In oktober 2023 moeten alle bewoners van woongemeenschap Buurland hun huis uit en wordt de boel platgegooid. Ongeveer honderd bewoners zijn nu op zoek naar een nieuwe plek om hun hechte community voort te zetten. Spiek nog snel even binnen met bewoners Marije Kruijt (28) en Justin Thijssen (28).
+lastmod: 2023-08-18T20:50:42.887Z
 ---
-Na jaren uitstel is de (sloop)kogel nu echt door de kerk. In oktober 2023 moeten alle bewoners van woongemeenschap Buurland hun huis uit en wordt de boel platgegooid. Ongeveer honderd bewoners zijn nu op zoek naar een nieuwe plek om hun hechte community voort te zetten. Spiek nog snel even binnen met bewoners Marije Kruijt (28) en Justin Thijssen (28). 
+![binnenkijken](/images/media/binnenkijken.jpg)
+
+*Na jaren uitstel is de (sloop)kogel nu echt door de kerk. In oktober 2023 moeten alle bewoners van woongemeenschap Buurland hun huis uit en wordt de boel platgegooid. Ongeveer honderd bewoners zijn nu op zoek naar een nieuwe plek om hun hechte community voort te zetten. Spiek nog snel even binnen met bewoners Marije Kruijt (28) en Justin Thijssen (28).*
+
+<!--more--> 
+
+> [Bekijk het originele artikel op Indebuurt.nl (incl aanvullende foto's!)](https://indebuurt.nl/utrecht/woning-van-de-week/binnenkijken-bij-de-bewoners-van-buurland-wij-zijn-het-voorbeeld-van-een-gemeenschap-voor-utrecht~366919/) 
 
 Nauw contact met je buren is niet voor iedereen weggelegd, maar voor de bewoners van Buurland is het een manier van leven geworden. In de Staatsliedenbuurt worden tuinen, feestjes en zelfs de katten gedeeld. Het is een gevolg van het jarenlange uitstel van de sloop, inbraakgolven en de afwezigheid van woningcorporaties. “Om de inbraakgolven tegen te gaan, zijn destijds veel schuttingen uit tuinen gehaald”, begint Justin, werkzaam als docent Maatschappijleer. “De mensen hadden daardoor meer contact en zijn activiteiten gaan organiseren.” Zijn buurvrouw, Marije, vult aan: “Iedereen die hier kwam wonen, wist dat je hier slechts tijdelijk zou huren vanwege de sloopplannen. Daardoor is het toch makkelijker om iets in je huis of tuin te veranderen. Dit schept een band en de huis- en tuinprojecten zorgden voor een sneeuwbaleffect.”
 
@@ -16,17 +18,11 @@ Nauw contact met je buren is niet voor iedereen weggelegd, maar voor de bewoners
 
 En creativiteit is er zeker. In de tuinen van de drie woonblokken die Buurland vormen, vind je een klimwand, een moestuin, een touwbrug, een pizza-oven, boomhutten, veel creatieve uitspattingen en gekleurde gevels. Naast dat er kippen rondscharrelen, staan er in de tuinen van Buurland ook verschillende badkuipen en jacuzzi’s. Deze worden tijdens de warme zomerdagen volop gebruikt. En de jaarlijkse feestjes zijn inmiddels een begrip geworden. Ook voor Marije en Justin zijn het memorabele gebeurtenissen. “Na het Buurland festival van 2022 zat ik in de vroege ochtend met dierbare vrienden rond een vuurtje. We zagen de zon opkomen en ik dacht: ik wil hier nooit meer weg”, vertelt Marije. 
 
-**Lees verder onder de foto**’s >
-
 ## **Een oase van rust**
 
 Marije, werkzaam als maatschappelijk werker, kwam negen jaar geleden in Buurland wonen. Dat was nog in de tijd van de inbraakgolven. “Dat was wel even wennen. Nu voel ik mij hier compleet veilig. Als ik na een lange dag werken thuis kom, geniet ik vooral van de natuur. De bomen zitten vol koolmeesjes. Ook als ik vanuit mijn bed naar buiten kijk, zie ik alleen maar bomen. Op welke plek in Utrecht zie je dat nu? Dat is voor mij echt magisch. Het is een oase van rust.” En groen is het zeker. Overal staan flinke bomen die tot aan de toppen van de daken rijzen. Justin, die vier jaar geleden in Buurland is komen wonen, vult Marije aan: “We snoeien de natuur pas als het in de weg zit. Dat zorgt er wel voor dat het een soort jungle wordt. Het is wel fijn als een nieuwe locatie ook ruimte biedt voor gemeenschappelijk groen.”
 
-**Lees verder onder de foto**’s >
-
 ## **Nieuw Buurland**
-
-Advertentie wordt geladen…
 
 Maar hoe zit het nu precies met het sloopverhaal? “Dit zijn voormalige sociale huurwoningen uit 1952. In 2008 waren er al grootse plannen om het te slopen en nieuwe sociale huurwoningen te bouwen. Door de crisis destijds en gebrek aan middelen bij de woningcorporaties is besloten om de sloop een jaar uit te stellen. Dit werd uiteindelijk meer dan tien jaar, maar nu staat het dus wel écht vast”, vertelt Justin. Op de website van de gemeente Utrecht valt inderdaad te lezen dat de honderdvijftig verouderde woningen plaats maken voor tweehonderdtachtig nieuwe sociale huurwoningen. ‘Nieuw Buurland’ moet tussen 2024 en 2026 gerealiseerd zijn. 
 
