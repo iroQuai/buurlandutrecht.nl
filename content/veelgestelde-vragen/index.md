@@ -4,7 +4,7 @@ title: Veelgestelde vragen (FAQ)
 date: 2023-08-08T00:00:00.000Z
 aliases:
   - /faq/
-lastmod: 2023-08-12T22:25:52.423Z
+lastmod: 2023-08-18T20:05:30.957Z
 ---
 ## Algemeen
 
@@ -49,8 +49,7 @@ In overleg met Woonin komt er een moment waarop iedereen mag komen [struikroven]
 {{< /details >}}
 
 {{< details title="Ik hoorde dat Buurland ging verhuizen naar een nieuwe locatie! klopt dat? En mag ik meedoen?!" open=false >}}
-Zo zeker is dat nog helemaal niet. Het klopt wel dat er een aantal mensen in Buurland gesprekken heeft gevoerd met oa gemeente en woningcorporatie om een nieuw project te realiseren waarbij kernwaarden van Buurland behouden zouden blijven, maar het is allerminst zeker of dat doorgaat en zo ja: hoe, waar en wanneer.
-Als er meer duidelijkheid komt en er plek is voor nieuwe deelnemers, hoor je t vanzelf! Tot die tijd moet je er maar vanuit gaan dat er niks beschikbaar is. 
+'Een groep Buurlanders is hard aan het werk om te zorgen dat de gemeenschap ook na de sloop van de huizen in de Staatsliedenbuurt kan blijven bestaan. Hierbij willen we de kracht van de gemeenschap inzetten om sociale doelen te bereiken in de stad. Denk hierbij aan het opnemen van statushouders en kwetsbare jongvolwassenen in een prettige woonomgeving. Ook op cultureel vlak willen we een bijdrage aan onze woonomgeving blijven leveren. Houd de website in de gaten voor updates!
 {{< /details >}}
 
 ## voor Buurland bewoners
