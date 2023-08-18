@@ -4,7 +4,7 @@ title: Veelgestelde vragen (FAQ)
 date: 2023-08-08T00:00:00.000Z
 aliases:
   - /faq/
-lastmod: 2023-08-18T20:05:30.957Z
+lastmod: 2023-08-18T22:01:30.831Z
 ---
 ## Algemeen
 
@@ -19,7 +19,7 @@ NB: Een berichtje via social media of via het contactformulier is NIET hetzelfde
 {{< /details >}}
 
 {{< details title="Ik wil meer weten over Buurland! Waar vind ik meer info?" open=false >}}
-Heb je de hele site al uit, inclusief alle [berichten](/berichten/) en [verzamelde krantenknipsels](/media/)? Dan is er nog een heel [boek met fotos en verhalen](/berichten/boekpresentatie-op-zwemfest-22/) die je kan bestellen, en een [Buurland documentaire](/berichten/buurland-documentaire/)! Wanneer die weer te zien is, is n.n.b.
+Heb je de hele site al uit, inclusief alle [berichten](/berichten/) en [verzamelde krantenknipsels](/media/)? Dan is er nog een heel [boek met fotos en verhalen](/berichten/boekpresentatie-op-zwemfest-22/) die je kan bestellen, en een [Buurland documentaire](/media/buurland-documentaire/)!
 {{< /details >}}
 
 ## over de sloop 
@@ -45,11 +45,11 @@ Aan de andere kant: De opgedane ervaring, connectie en inspiratie laat een indru
 {{< /details >}}
 
 {{< details title="Wat gebeurt er met al het groen in de buurt na de sloop? Mag ik een boom of plant adopteren?" open=false >}}
-In overleg met Woonin komt er een moment waarop iedereen mag komen [struikroven](https://www.struikroven.nu/)! Meer info volgt...
+In overleg met Woonin komt er een moment waarop iedereen mag komen [struikroven](https://www.struikroven.nu/)! [Meer info hier](/berichten/kom-je-struikroven/).
 {{< /details >}}
 
 {{< details title="Ik hoorde dat Buurland ging verhuizen naar een nieuwe locatie! klopt dat? En mag ik meedoen?!" open=false >}}
-'Een groep Buurlanders is hard aan het werk om te zorgen dat de gemeenschap ook na de sloop van de huizen in de Staatsliedenbuurt kan blijven bestaan. Hierbij willen we de kracht van de gemeenschap inzetten om sociale doelen te bereiken in de stad. Denk hierbij aan het opnemen van statushouders en kwetsbare jongvolwassenen in een prettige woonomgeving. Ook op cultureel vlak willen we een bijdrage aan onze woonomgeving blijven leveren. Houd de website in de gaten voor updates!
+'Een groep Buurlanders is hard aan het werk om te zorgen dat de gemeenschap ook na de sloop van de huizen in de Staatsliedenbuurt kan blijven bestaan. Hierbij willen we de kracht van de gemeenschap inzetten om sociale doelen te bereiken in de stad. Denk hierbij aan het opnemen van statushouders en kwetsbare jongvolwassenen in een prettige woonomgeving. Ook op cultureel vlak willen we een bijdrage aan onze woonomgeving blijven leveren. [Klik hier om meer te lezen over het plan](/wat-na-buurland/)
 {{< /details >}}
 
 ## voor Buurland bewoners

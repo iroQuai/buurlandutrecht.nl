@@ -2,8 +2,8 @@
 title: De dag die je wist dat zou komen...
 slug: de-dag-die-je-wist-dat-zou-komen
 description: null
-date: 2023-05-01
-lastmod: 2023-08-18T20:40:23.766Z
+date: 2023-05-16
+lastmod: 2023-08-18T21:37:31.898Z
 draft: false
 tags: []
 categories: blog
@@ -11,7 +11,7 @@ type: post
 ---
 ![sloopkogel](/images/sloopkogel.jpg)
 
-Aiiiii..... we wisten allemaal dat het er een keer aan zat te komen! Maar als de brief dan daadwerkelijk komt, ben je toch verbaasd. De bewoners moeten in **oktober 2023** hun huizen verlaten hebben, want de sloop gaat dan toch daadwerkelijk van start! 
+Aiiiii..... we wisten allemaal dat het er een keer aan zat te komen! Maar als de brief dan daadwerkelijk komt, ben je toch verbaasd. Alle bewoners moeten uiterlijk in **oktober 2023** hun huizen verlaten hebben, want de sloop gaat dan toch daadwerkelijk van start! 
 
 Gelukkig zit men in Buurland zelden stil... 
 <!--more-->
