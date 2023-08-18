@@ -3,7 +3,7 @@ title: Kom je struikroven op 8 oktober?
 slug: kom-je-struikroven
 description: null
 date: 2023-08-01
-lastmod: 2023-08-18T21:13:48.453Z
+lastmod: 2023-08-18T22:26:23.673Z
 draft: false
 tags: []
 categories: blog
@@ -11,7 +11,7 @@ type: post
 ---
 
 
-Nu bekend is geworden dat [de hele wijk binnenkort plat gaat](berichten/de-dag-die-je-wist-dat-zou-komen/), ontstaan ook de vragen. Wat gaat er bijvoorbeeld gebeuren met al dat groen in de buurt? Wordt dat allemaal bedolven onder een dikke laag puin? Dat zou toch zonde zijn...
+Nu bekend is geworden dat [de hele wijk binnenkort plat gaat](/berichten/de-dag-die-je-wist-dat-zou-komen/), ontstaan ook de vragen. Wat gaat er bijvoorbeeld gebeuren met al dat groen in de buurt? Wordt dat allemaal bedolven onder een dikke laag puin? Dat zou toch zonde zijn...
 
 ![struikrooflogo](https://images.squarespace-cdn.com/content/v1/5e3d4e5795a35e026ddd29fb/1622808392142-N2UUI0SVCMAFYAJ5284M/1Asset+3logo+mobiel+V2.png)
 
