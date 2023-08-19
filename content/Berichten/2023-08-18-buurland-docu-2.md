@@ -12,7 +12,7 @@ type: post
 ---
 ![buurland docu bij RTV Utrecht](/images/media/docu-bij-rtv.jpg) 
 <!--more--> 
-Vorig jaar maakte Buurland Malin en Silke een heuse [documentaire over Buurland](/berichten/buurland-documentaire/)! Tot voorkort was het echter heel lastig om die te bekijken. Je moest toevallig net in de buurt zijn als er een screening was, of één van de dames persoonlijk kennen. Daar komt nu verandering in: RTV Utrecht heeft 'm uitgezonden en je kan de hele docu onbeperkt terugkijken! 
+Vorig jaar maakte Buurlanders Malin en Silke een heuse [documentaire over Buurland](/berichten/buurland-documentaire/)! Tot voorkort was het echter heel lastig om die te bekijken. Je moest toevallig net in de buurt zijn als er een screening was, of één van de dames persoonlijk kennen. Daar komt nu verandering in: RTV Utrecht heeft 'm uitgezonden en je kan de hele docu onbeperkt terugkijken! 
 
 
 > [bekijk de buurland docu via deze link!](/media/buurland-documentaire/)
