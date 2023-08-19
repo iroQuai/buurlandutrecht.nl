@@ -18,7 +18,7 @@ Vorig jaar maakte Buurlanders Malin en Silke een heuse [documentaire over Buurla
 > [bekijk de buurland docu via deze link!](/media/buurland-documentaire/)
 
 
-Mocht je toch niet optimaal kijken achter je laptop? Dan zijn er twee andere opties: 
+Zit je toch niet optimaal te kijken achter je laptop? Dan zijn er twee andere opties: 
 1. Op het super-aller-laatste [zwemfest](/zwemfest/) feestje is de hele dag de mogelijkheid om de docu te bekijken. Wanneer dat feestje precies is? Dat moet je even vragen aan de mensen die je zelf kent in Buurland, want... het blijft natuurlijk een besloten tuinfeestje :)
 2. Koop de DVD! Kan gewoon. Bij de Merchandise-stand op datzelfde zwemfest, of stuur een berichtje via [het contactformulier](/contact/)!
 
