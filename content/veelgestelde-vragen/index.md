@@ -29,7 +29,7 @@ In oktober 2023 moeten alle kamers leeg zijn, zodat de sloop kan beginnen.
 {{< /details >}}
 
 {{< details title="Maar serieus, wanneer worden de panden ècht gesloopt?" open=false >}}
-Na zo'n 14 jaar lang vooruitgeschoven deadlines is deze vraag heel begrijpelijk, maar het lijkt er op dat het dit keer meenes is!
+Na zo'n 14 jaar lang vooruitgeschoven deadlines is deze vraag heel begrijpelijk, maar het lijkt er op dat het [dit keer meenes is](/berichten/de-dag-die-je-wist-dat-zou-komen/)!
 {{< /details >}}
 
 {{< details title="Wat komt er op de plek van Buurland na de sloop?" open=false >}}
