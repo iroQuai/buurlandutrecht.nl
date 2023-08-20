@@ -25,7 +25,7 @@ Heb je de hele site al uit, inclusief alle [berichten](/berichten/) en [verzamel
 ## over de sloop 
 
 {{< details title="Wanneer worden de panden gesloopt?" open=false >}}
-In oktober 2024 moeten alle kamers leeg zijn, zodat de sloop kan beginnen. 
+In oktober 2023 moeten alle kamers leeg zijn, zodat de sloop kan beginnen. 
 {{< /details >}}
 
 {{< details title="Maar serieus, wanneer worden de panden ècht gesloopt?" open=false >}}
