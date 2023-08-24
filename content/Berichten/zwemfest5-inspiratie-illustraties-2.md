@@ -12,6 +12,9 @@ aliases:
 Op [Zwemfest 5: Water en Buur](/zwemfest/2014/) liepen diverse creatievelingen rond die op hun eigen wijze hun momenten van inspiratie hebben vertolkt in hun kunstvorm. Hieronder: illustraties van 10 momenten van inspiratie, door [Lennart Jaspers](http://cargocollective.com/lart)!
 
 Tip: Klik op het plaatje voor een grote versie inclusief een korte uitleg van de maker!
+<!--more-->
+
+{{< load-photoswipe >}}
 
 {{< gallery >}}
   {{< figure src="/images/zwemfest5/lennart-jaspers/dehamer.jpg" caption="de hamer" alt="een jongeman had net iets teveel bier gedronken en leek het even niet meer trekken. Na de tik van de man met de hamer bleef hij toch gezellig doorlallen :) " >}}
@@ -25,8 +28,4 @@ Tip: Klik op het plaatje voor een grote versie inclusief een korte uitleg van de
   {{< figure src="/images/zwemfest5/lennart-jaspers/riprembodevis.jpg" caption="RIP Rembo de Vis" alt="Een tekst over de dood van zijn geliefde vis Rembo uit het liedje van Jari Smits" >}}
   {{< figure src="/images/zwemfest5/lennart-jaspers/sop-hie_kemperman.jpg" caption="Sop-hie Kemperman" alt="Ons altijd enthousiaste Sophietje welke de eerste drie letters van haar naam eer aandeed door met een soppak door de festiviteiten te lopen" >}}
 {{< /gallery >}}
-<!--more-->
-
-{{< load-photoswipe >}}
-
 
