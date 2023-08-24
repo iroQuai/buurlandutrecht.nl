@@ -13,7 +13,6 @@ Op [Zwemfest 5: Water en Buur](/zwemfest/2014/) liepen diverse creatievelingen r
 
 Tip: Klik op het plaatje voor een grote versie inclusief een korte uitleg van de maker!
 
-{{< load-photoswipe >}}
 {{< gallery >}}
   {{< figure src="/images/zwemfest5/lennart-jaspers/dehamer.jpg" caption="de hamer" alt="een jongeman had net iets teveel bier gedronken en leek het even niet meer trekken. Na de tik van de man met de hamer bleef hij toch gezellig doorlallen :) " >}}
   {{< figure src="/images/zwemfest5/lennart-jaspers/het_hoogtepunt_in_de_kelder.jpg" caption="Hoogtepunt in de Kelder" alt="één van de gevleugelde uitspraken van een mede hottubzitter (ik ben zijn naam vergeten, hij was een volledig naakte klusjesman)" >}}
@@ -26,5 +25,6 @@ Tip: Klik op het plaatje voor een grote versie inclusief een korte uitleg van de
   {{< figure src="/images/zwemfest5/lennart-jaspers/riprembodevis.jpg" caption="RIP Rembo de Vis" alt="Een tekst over de dood van zijn geliefde vis Rembo uit het liedje van Jari Smits" >}}
   {{< figure src="/images/zwemfest5/lennart-jaspers/sop-hie_kemperman.jpg" caption="Sop-hie Kemperman" alt="Ons altijd enthousiaste Sophietje welke de eerste drie letters van haar naam eer aandeed door met een soppak door de festiviteiten te lopen" >}}
 {{< /gallery >}}
+<!--more-->{{< load-photoswipe >}}
 
 
