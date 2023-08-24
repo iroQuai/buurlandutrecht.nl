@@ -25,6 +25,8 @@ Tip: Klik op het plaatje voor een grote versie inclusief een korte uitleg van de
   {{< figure src="/images/zwemfest5/lennart-jaspers/riprembodevis.jpg" caption="RIP Rembo de Vis" alt="Een tekst over de dood van zijn geliefde vis Rembo uit het liedje van Jari Smits" >}}
   {{< figure src="/images/zwemfest5/lennart-jaspers/sop-hie_kemperman.jpg" caption="Sop-hie Kemperman" alt="Ons altijd enthousiaste Sophietje welke de eerste drie letters van haar naam eer aandeed door met een soppak door de festiviteiten te lopen" >}}
 {{< /gallery >}}
-<!--more-->{{< load-photoswipe >}}
+<!--more-->
+
+{{< load-photoswipe >}}
 
 
