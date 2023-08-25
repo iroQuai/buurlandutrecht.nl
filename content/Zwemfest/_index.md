@@ -2,7 +2,7 @@
 title: Zwemfest buurtfestivals
 draft: false
 layout: page
-lastmod: 2023-08-18T22:19:30.823Z
+lastmod: 2023-08-25T19:40:23.489Z
 aliases:
   - /zwemfest/
 ---
@@ -21,6 +21,7 @@ Iedere zomer organiseert Buurland Utrecht een buurtfeest. De achtertuinen krijge
 - [2019 - BRRRRIand](/zwemfest/2019/)
 - [2021 - BÜÜRLER MÜRLER](/zwemfest/2021/)
 - [2022 - Buurmuda Driehoek](/zwemfest/2022/)
+- [2023 - Buurocratie](/zwemfest/2023/)
 {{< /details >}}
 
 {{< gallery >}}
@@ -36,6 +37,7 @@ Iedere zomer organiseert Buurland Utrecht een buurtfeest. De achtertuinen krijge
   {{< figure src="/images/zwemfest/posters/thumbs/2019.jpg" link="/zwemfest/2019/" caption="2019 - BRRRRIand" >}} 
   {{< figure src="/images/zwemfest/posters/thumbs/2021.jpg" link="/zwemfest/2021/" caption="2021 - BÜÜRLER MÜRLER" >}} 
   {{< figure src="/images/zwemfest/posters/thumbs/2022.jpg" link="/zwemfest/2022/" caption="2022 - Buurmuda Driehoek" >}} 
+  {{< figure src="/images/zwemfest/posters/thumbs/2023.jpg" link="/zwemfest/2023/" caption="2023 - Buurocratie" >}} 
 {{< /gallery >}}
 
 
